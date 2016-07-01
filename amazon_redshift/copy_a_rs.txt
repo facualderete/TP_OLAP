@@ -1,0 +1,61 @@
+_____________________ si hay error usar esto
+
+select * from stl_load_errors;
+
+_____________________ faltan subir
+
+
+
+
+copy shop_daily_report
+from 's3://redshift-academic/shop_daily_report.csv'
+credentials 'aws_iam_role=arn:aws:iam::503661387330:role/redshiftRole'
+region 'us-east-1'
+delimiter ','
+explicit_ids
+ignoreheader 1;
+
+updates!!!
+
+_____________________ ya pasados a RS
+
+copy location(id, zipcode, city, province, country)
+from 's3://redshift-academic/location.csv'
+credentials 'aws_iam_role=arn:aws:iam::503661387330:role/redshiftRole'
+region 'us-east-1'
+delimiter ','
+explicit_ids;
+
+drop table shop;
+CREATE TABLE shop
+(
+  id    int identity(1,1) not null,
+  name    varchar(100)  not null,
+  source_id varchar(50) not null,
+  zipcode   varchar(50) not null,
+  cuit    varchar(11) not null,
+  charges   varchar(50),
+  date    varchar(10),
+  terminals integer,
+  charge_mode varchar(50),
+  category  varchar(50),
+  client_source varchar(50),
+  id_location integer,
+  CONSTRAINT pk_shop_id PRIMARY KEY (id)
+);
+
+copy shop
+from 's3://redshift-academic/shop.csv'
+credentials 'aws_iam_role=arn:aws:iam::503661387330:role/redshiftRole'
+region 'us-east-1'
+delimiter ','
+ignoreheader 1;
+
+
+copy time
+from 's3://redshift-academic/time.csv'
+credentials 'aws_iam_role=arn:aws:iam::503661387330:role/redshiftRole'
+region 'us-east-1'
+delimiter ','
+explicit_ids
+ignoreheader 1;
