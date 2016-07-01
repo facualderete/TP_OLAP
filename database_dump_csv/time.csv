@@ -1,0 +1,417 @@
+timekey,date,daynameweek,daynbmonth,monthnumber,monthname,quarter,semester,year
+1,2015-02-27,Friday   ,27,2,February ,1,1,2015
+2,2015-03-02,Monday   ,2,3,March    ,1,1,2015
+3,2015-03-03,Tuesday  ,3,3,March    ,1,1,2015
+4,2015-03-04,Wednesday,4,3,March    ,1,1,2015
+5,2015-03-05,Thursday ,5,3,March    ,1,1,2015
+6,2015-03-06,Friday   ,6,3,March    ,1,1,2015
+7,2015-03-09,Monday   ,9,3,March    ,1,1,2015
+8,2015-03-10,Tuesday  ,10,3,March    ,1,1,2015
+9,2015-03-11,Wednesday,11,3,March    ,1,1,2015
+10,2015-03-12,Thursday ,12,3,March    ,1,1,2015
+11,2015-03-13,Friday   ,13,3,March    ,1,1,2015
+12,2015-03-16,Monday   ,16,3,March    ,1,1,2015
+13,2015-03-17,Tuesday  ,17,3,March    ,1,1,2015
+14,2015-03-18,Wednesday,18,3,March    ,1,1,2015
+15,2015-03-19,Thursday ,19,3,March    ,1,1,2015
+16,2015-03-20,Friday   ,20,3,March    ,1,1,2015
+17,2015-03-25,Wednesday,25,3,March    ,1,1,2015
+18,2015-03-26,Thursday ,26,3,March    ,1,1,2015
+19,2015-03-27,Friday   ,27,3,March    ,1,1,2015
+20,2015-03-30,Monday   ,30,3,March    ,1,1,2015
+21,2015-03-31,Tuesday  ,31,3,March    ,1,1,2015
+22,2015-04-01,Wednesday,1,4,April    ,2,1,2015
+23,2015-04-06,Monday   ,6,4,April    ,2,1,2015
+24,2015-04-07,Tuesday  ,7,4,April    ,2,1,2015
+25,2015-04-08,Wednesday,8,4,April    ,2,1,2015
+26,2015-04-09,Thursday ,9,4,April    ,2,1,2015
+27,2015-04-10,Friday   ,10,4,April    ,2,1,2015
+28,2015-04-13,Monday   ,13,4,April    ,2,1,2015
+29,2015-04-14,Tuesday  ,14,4,April    ,2,1,2015
+30,2015-04-15,Wednesday,15,4,April    ,2,1,2015
+31,2015-04-16,Thursday ,16,4,April    ,2,1,2015
+32,2015-04-17,Friday   ,17,4,April    ,2,1,2015
+33,2015-04-20,Monday   ,20,4,April    ,2,1,2015
+34,2015-04-21,Tuesday  ,21,4,April    ,2,1,2015
+35,2015-04-22,Wednesday,22,4,April    ,2,1,2015
+36,2015-04-23,Thursday ,23,4,April    ,2,1,2015
+37,2015-04-24,Friday   ,24,4,April    ,2,1,2015
+38,2015-04-27,Monday   ,27,4,April    ,2,1,2015
+39,2015-04-28,Tuesday  ,28,4,April    ,2,1,2015
+40,2015-04-29,Wednesday,29,4,April    ,2,1,2015
+41,2015-04-30,Thursday ,30,4,April    ,2,1,2015
+42,2015-05-04,Monday   ,4,5,May      ,2,1,2015
+43,2015-05-05,Tuesday  ,5,5,May      ,2,1,2015
+44,2015-05-06,Wednesday,6,5,May      ,2,1,2015
+45,2015-05-07,Thursday ,7,5,May      ,2,1,2015
+46,2015-05-08,Friday   ,8,5,May      ,2,1,2015
+47,2015-05-11,Monday   ,11,5,May      ,2,1,2015
+48,2015-05-12,Tuesday  ,12,5,May      ,2,1,2015
+49,2015-05-13,Wednesday,13,5,May      ,2,1,2015
+50,2015-05-14,Thursday ,14,5,May      ,2,1,2015
+51,2015-05-15,Friday   ,15,5,May      ,2,1,2015
+52,2015-05-18,Monday   ,18,5,May      ,2,1,2015
+53,2015-05-19,Tuesday  ,19,5,May      ,2,1,2015
+54,2015-05-20,Wednesday,20,5,May      ,2,1,2015
+55,2015-05-21,Thursday ,21,5,May      ,2,1,2015
+56,2015-05-22,Friday   ,22,5,May      ,2,1,2015
+57,2015-05-26,Tuesday  ,26,5,May      ,2,1,2015
+58,2015-05-27,Wednesday,27,5,May      ,2,1,2015
+59,2015-05-28,Thursday ,28,5,May      ,2,1,2015
+60,2015-05-29,Friday   ,29,5,May      ,2,1,2015
+61,2015-06-01,Monday   ,1,6,June     ,2,1,2015
+62,2015-06-02,Tuesday  ,2,6,June     ,2,1,2015
+63,2015-06-03,Wednesday,3,6,June     ,2,1,2015
+64,2015-06-04,Thursday ,4,6,June     ,2,1,2015
+65,2015-06-05,Friday   ,5,6,June     ,2,1,2015
+66,2015-06-08,Monday   ,8,6,June     ,2,1,2015
+67,2015-06-09,Tuesday  ,9,6,June     ,2,1,2015
+68,2015-06-10,Wednesday,10,6,June     ,2,1,2015
+69,2015-06-11,Thursday ,11,6,June     ,2,1,2015
+70,2015-06-12,Friday   ,12,6,June     ,2,1,2015
+71,2015-06-15,Monday   ,15,6,June     ,2,1,2015
+72,2015-06-16,Tuesday  ,16,6,June     ,2,1,2015
+73,2015-06-17,Wednesday,17,6,June     ,2,1,2015
+74,2015-06-18,Thursday ,18,6,June     ,2,1,2015
+75,2015-06-19,Friday   ,19,6,June     ,2,1,2015
+76,2015-06-22,Monday   ,22,6,June     ,2,1,2015
+77,2015-06-23,Tuesday  ,23,6,June     ,2,1,2015
+78,2015-06-24,Wednesday,24,6,June     ,2,1,2015
+79,2015-06-25,Thursday ,25,6,June     ,2,1,2015
+80,2015-06-26,Friday   ,26,6,June     ,2,1,2015
+81,2015-06-29,Monday   ,29,6,June     ,2,1,2015
+82,2015-06-30,Tuesday  ,30,6,June     ,2,1,2015
+83,2015-07-01,Wednesday,1,7,July     ,3,2,2015
+84,2015-07-02,Thursday ,2,7,July     ,3,2,2015
+85,2015-07-03,Friday   ,3,7,July     ,3,2,2015
+86,2015-07-06,Monday   ,6,7,July     ,3,2,2015
+87,2015-07-07,Tuesday  ,7,7,July     ,3,2,2015
+88,2015-07-08,Wednesday,8,7,July     ,3,2,2015
+89,2015-07-10,Friday   ,10,7,July     ,3,2,2015
+90,2015-07-13,Monday   ,13,7,July     ,3,2,2015
+91,2015-07-14,Tuesday  ,14,7,July     ,3,2,2015
+92,2015-07-15,Wednesday,15,7,July     ,3,2,2015
+93,2015-07-16,Thursday ,16,7,July     ,3,2,2015
+94,2015-07-17,Friday   ,17,7,July     ,3,2,2015
+95,2015-07-20,Monday   ,20,7,July     ,3,2,2015
+96,2015-07-21,Tuesday  ,21,7,July     ,3,2,2015
+97,2015-07-22,Wednesday,22,7,July     ,3,2,2015
+98,2015-07-23,Thursday ,23,7,July     ,3,2,2015
+99,2015-07-24,Friday   ,24,7,July     ,3,2,2015
+100,2015-07-27,Monday   ,27,7,July     ,3,2,2015
+101,2015-07-28,Tuesday  ,28,7,July     ,3,2,2015
+102,2015-07-29,Wednesday,29,7,July     ,3,2,2015
+103,2015-07-30,Thursday ,30,7,July     ,3,2,2015
+104,2015-07-31,Friday   ,31,7,July     ,3,2,2015
+105,2015-08-03,Monday   ,3,8,August   ,3,2,2015
+106,2015-08-04,Tuesday  ,4,8,August   ,3,2,2015
+107,2015-08-05,Wednesday,5,8,August   ,3,2,2015
+108,2015-08-06,Thursday ,6,8,August   ,3,2,2015
+109,2015-08-07,Friday   ,7,8,August   ,3,2,2015
+110,2015-08-10,Monday   ,10,8,August   ,3,2,2015
+111,2015-08-11,Tuesday  ,11,8,August   ,3,2,2015
+112,2015-08-12,Wednesday,12,8,August   ,3,2,2015
+113,2015-08-13,Thursday ,13,8,August   ,3,2,2015
+114,2015-08-14,Friday   ,14,8,August   ,3,2,2015
+115,2015-08-18,Tuesday  ,18,8,August   ,3,2,2015
+116,2015-08-19,Wednesday,19,8,August   ,3,2,2015
+117,2015-08-20,Thursday ,20,8,August   ,3,2,2015
+118,2015-08-21,Friday   ,21,8,August   ,3,2,2015
+119,2015-08-24,Monday   ,24,8,August   ,3,2,2015
+120,2015-08-25,Tuesday  ,25,8,August   ,3,2,2015
+121,2015-08-26,Wednesday,26,8,August   ,3,2,2015
+122,2015-08-27,Thursday ,27,8,August   ,3,2,2015
+123,2015-08-28,Friday   ,28,8,August   ,3,2,2015
+124,2015-08-31,Monday   ,31,8,August   ,3,2,2015
+125,2015-09-01,Tuesday  ,1,9,September,3,2,2015
+126,2015-09-02,Wednesday,2,9,September,3,2,2015
+127,2015-09-03,Thursday ,3,9,September,3,2,2015
+128,2015-09-04,Friday   ,4,9,September,3,2,2015
+129,2015-09-07,Monday   ,7,9,September,3,2,2015
+130,2015-09-08,Tuesday  ,8,9,September,3,2,2015
+131,2015-09-09,Wednesday,9,9,September,3,2,2015
+132,2015-09-10,Thursday ,10,9,September,3,2,2015
+133,2015-09-11,Friday   ,11,9,September,3,2,2015
+134,2015-09-14,Monday   ,14,9,September,3,2,2015
+135,2015-09-15,Tuesday  ,15,9,September,3,2,2015
+136,2015-09-16,Wednesday,16,9,September,3,2,2015
+137,2015-09-17,Thursday ,17,9,September,3,2,2015
+138,2015-09-18,Friday   ,18,9,September,3,2,2015
+139,2015-09-21,Monday   ,21,9,September,3,2,2015
+140,2015-09-22,Tuesday  ,22,9,September,3,2,2015
+141,2015-09-23,Wednesday,23,9,September,3,2,2015
+142,2015-09-24,Thursday ,24,9,September,3,2,2015
+143,2015-09-25,Friday   ,25,9,September,3,2,2015
+144,2015-09-28,Monday   ,28,9,September,3,2,2015
+145,2015-09-29,Tuesday  ,29,9,September,3,2,2015
+146,2015-09-30,Wednesday,30,9,September,3,2,2015
+147,2015-10-01,Thursday ,1,10,October  ,4,2,2015
+148,2015-10-02,Friday   ,2,10,October  ,4,2,2015
+149,2015-10-05,Monday   ,5,10,October  ,4,2,2015
+150,2015-10-06,Tuesday  ,6,10,October  ,4,2,2015
+151,2015-10-07,Wednesday,7,10,October  ,4,2,2015
+152,2015-10-08,Thursday ,8,10,October  ,4,2,2015
+153,2015-10-09,Friday   ,9,10,October  ,4,2,2015
+154,2015-10-13,Tuesday  ,13,10,October  ,4,2,2015
+155,2015-10-14,Wednesday,14,10,October  ,4,2,2015
+156,2015-10-15,Thursday ,15,10,October  ,4,2,2015
+157,2015-10-16,Friday   ,16,10,October  ,4,2,2015
+158,2015-10-19,Monday   ,19,10,October  ,4,2,2015
+159,2015-10-20,Tuesday  ,20,10,October  ,4,2,2015
+160,2015-10-21,Wednesday,21,10,October  ,4,2,2015
+161,2015-10-22,Thursday ,22,10,October  ,4,2,2015
+162,2015-10-23,Friday   ,23,10,October  ,4,2,2015
+163,2015-10-26,Monday   ,26,10,October  ,4,2,2015
+164,2015-10-27,Tuesday  ,27,10,October  ,4,2,2015
+165,2015-10-28,Wednesday,28,10,October  ,4,2,2015
+166,2015-10-29,Thursday ,29,10,October  ,4,2,2015
+167,2015-10-30,Friday   ,30,10,October  ,4,2,2015
+168,2015-11-02,Monday   ,2,11,November ,4,2,2015
+169,2015-11-03,Tuesday  ,3,11,November ,4,2,2015
+170,2015-11-04,Wednesday,4,11,November ,4,2,2015
+171,2015-11-05,Thursday ,5,11,November ,4,2,2015
+172,2015-11-09,Monday   ,9,11,November ,4,2,2015
+173,2015-11-10,Tuesday  ,10,11,November ,4,2,2015
+174,2015-11-11,Wednesday,11,11,November ,4,2,2015
+175,2015-11-12,Thursday ,12,11,November ,4,2,2015
+176,2015-11-13,Friday   ,13,11,November ,4,2,2015
+177,2015-11-16,Monday   ,16,11,November ,4,2,2015
+178,2015-11-17,Tuesday  ,17,11,November ,4,2,2015
+179,2015-11-18,Wednesday,18,11,November ,4,2,2015
+180,2015-11-19,Thursday ,19,11,November ,4,2,2015
+181,2015-11-20,Friday   ,20,11,November ,4,2,2015
+182,2015-11-23,Monday   ,23,11,November ,4,2,2015
+183,2015-11-24,Tuesday  ,24,11,November ,4,2,2015
+184,2015-11-25,Wednesday,25,11,November ,4,2,2015
+185,2015-11-26,Thursday ,26,11,November ,4,2,2015
+186,2015-11-30,Monday   ,30,11,November ,4,2,2015
+187,2015-12-01,Tuesday  ,1,12,December ,4,2,2015
+188,2015-12-02,Wednesday,2,12,December ,4,2,2015
+189,2015-12-03,Thursday ,3,12,December ,4,2,2015
+190,2015-12-04,Friday   ,4,12,December ,4,2,2015
+191,2015-12-09,Wednesday,9,12,December ,4,2,2015
+192,2015-12-10,Thursday ,10,12,December ,4,2,2015
+193,2015-12-11,Friday   ,11,12,December ,4,2,2015
+194,2015-12-14,Monday   ,14,12,December ,4,2,2015
+195,2015-12-15,Tuesday  ,15,12,December ,4,2,2015
+196,2015-12-16,Wednesday,16,12,December ,4,2,2015
+197,2015-12-17,Thursday ,17,12,December ,4,2,2015
+198,2015-12-18,Friday   ,18,12,December ,4,2,2015
+199,2015-12-21,Monday   ,21,12,December ,4,2,2015
+200,2015-12-22,Tuesday  ,22,12,December ,4,2,2015
+201,2015-12-23,Wednesday,23,12,December ,4,2,2015
+202,2015-12-24,Thursday ,24,12,December ,4,2,2015
+203,2015-12-28,Monday   ,28,12,December ,4,2,2015
+204,2015-12-29,Tuesday  ,29,12,December ,4,2,2015
+205,2015-12-30,Wednesday,30,12,December ,4,2,2015
+206,2015-12-31,Thursday ,31,12,December ,4,2,2015
+207,2016-01-04,Monday   ,4,1,January  ,1,1,2016
+208,2016-01-05,Tuesday  ,5,1,January  ,1,1,2016
+209,2016-01-06,Wednesday,6,1,January  ,1,1,2016
+210,2016-01-07,Thursday ,7,1,January  ,1,1,2016
+211,2016-01-08,Friday   ,8,1,January  ,1,1,2016
+212,2016-01-11,Monday   ,11,1,January  ,1,1,2016
+213,2016-01-12,Tuesday  ,12,1,January  ,1,1,2016
+214,2016-01-13,Wednesday,13,1,January  ,1,1,2016
+215,2016-01-14,Thursday ,14,1,January  ,1,1,2016
+216,2016-01-15,Friday   ,15,1,January  ,1,1,2016
+217,2016-01-18,Monday   ,18,1,January  ,1,1,2016
+218,2016-01-19,Tuesday  ,19,1,January  ,1,1,2016
+219,2016-01-20,Wednesday,20,1,January  ,1,1,2016
+220,2016-01-21,Thursday ,21,1,January  ,1,1,2016
+221,2016-01-22,Friday   ,22,1,January  ,1,1,2016
+222,2016-01-25,Monday   ,25,1,January  ,1,1,2016
+223,2016-01-26,Tuesday  ,26,1,January  ,1,1,2016
+224,2016-01-27,Wednesday,27,1,January  ,1,1,2016
+225,2016-01-29,Friday   ,29,1,January  ,1,1,2016
+226,2016-02-01,Monday   ,1,2,February ,1,1,2016
+227,2016-02-02,Tuesday  ,2,2,February ,1,1,2016
+228,2016-02-03,Wednesday,3,2,February ,1,1,2016
+229,2016-02-04,Thursday ,4,2,February ,1,1,2016
+230,2016-02-05,Friday   ,5,2,February ,1,1,2016
+231,2016-02-10,Wednesday,10,2,February ,1,1,2016
+232,2016-02-11,Thursday ,11,2,February ,1,1,2016
+233,2016-02-12,Friday   ,12,2,February ,1,1,2016
+234,2016-02-15,Monday   ,15,2,February ,1,1,2016
+235,2016-02-16,Tuesday  ,16,2,February ,1,1,2016
+236,2016-02-17,Wednesday,17,2,February ,1,1,2016
+237,2016-02-18,Thursday ,18,2,February ,1,1,2016
+238,2016-02-19,Friday   ,19,2,February ,1,1,2016
+239,2016-02-22,Monday   ,22,2,February ,1,1,2016
+240,2016-02-23,Tuesday  ,23,2,February ,1,1,2016
+241,2016-02-24,Wednesday,24,2,February ,1,1,2016
+242,2016-02-25,Thursday ,25,2,February ,1,1,2016
+243,2016-02-26,Friday   ,26,2,February ,1,1,2016
+244,2016-02-29,Monday   ,29,2,February ,1,1,2016
+245,2016-03-01,Tuesday  ,1,3,March    ,1,1,2016
+246,2016-03-02,Wednesday,2,3,March    ,1,1,2016
+247,2016-03-03,Thursday ,3,3,March    ,1,1,2016
+248,2016-03-04,Friday   ,4,3,March    ,1,1,2016
+249,2016-03-07,Monday   ,7,3,March    ,1,1,2016
+250,2016-03-08,Tuesday  ,8,3,March    ,1,1,2016
+251,2016-03-09,Wednesday,9,3,March    ,1,1,2016
+252,2016-03-10,Thursday ,10,3,March    ,1,1,2016
+253,2016-03-11,Friday   ,11,3,March    ,1,1,2016
+254,2016-03-14,Monday   ,14,3,March    ,1,1,2016
+255,2016-03-15,Tuesday  ,15,3,March    ,1,1,2016
+256,2016-03-16,Wednesday,16,3,March    ,1,1,2016
+257,2016-03-17,Thursday ,17,3,March    ,1,1,2016
+258,2016-03-18,Friday   ,18,3,March    ,1,1,2016
+259,2016-03-21,Monday   ,21,3,March    ,1,1,2016
+260,2016-03-22,Tuesday  ,22,3,March    ,1,1,2016
+261,2016-03-23,Wednesday,23,3,March    ,1,1,2016
+262,2016-03-28,Monday   ,28,3,March    ,1,1,2016
+263,2016-03-29,Tuesday  ,29,3,March    ,1,1,2016
+264,2016-03-30,Wednesday,30,3,March    ,1,1,2016
+265,2016-03-31,Thursday ,31,3,March    ,1,1,2016
+266,2016-04-01,Friday   ,1,4,April    ,2,1,2016
+267,2016-04-04,Monday   ,4,4,April    ,2,1,2016
+268,2016-04-05,Tuesday  ,5,4,April    ,2,1,2016
+269,2016-04-06,Wednesday,6,4,April    ,2,1,2016
+270,2016-04-07,Thursday ,7,4,April    ,2,1,2016
+271,2016-04-08,Friday   ,8,4,April    ,2,1,2016
+272,2016-04-11,Monday   ,11,4,April    ,2,1,2016
+273,2016-04-12,Tuesday  ,12,4,April    ,2,1,2016
+274,2016-04-13,Wednesday,13,4,April    ,2,1,2016
+275,2016-04-14,Thursday ,14,4,April    ,2,1,2016
+276,2016-04-15,Friday   ,15,4,April    ,2,1,2016
+277,2016-04-18,Monday   ,18,4,April    ,2,1,2016
+278,2016-04-19,Tuesday  ,19,4,April    ,2,1,2016
+279,2016-04-20,Wednesday,20,4,April    ,2,1,2016
+280,2016-04-21,Thursday ,21,4,April    ,2,1,2016
+281,2016-04-22,Friday   ,22,4,April    ,2,1,2016
+282,2016-04-25,Monday   ,25,4,April    ,2,1,2016
+283,2016-04-26,Tuesday  ,26,4,April    ,2,1,2016
+284,2016-04-27,Wednesday,27,4,April    ,2,1,2016
+285,2016-04-28,Thursday ,28,4,April    ,2,1,2016
+286,2016-04-29,Friday   ,29,4,April    ,2,1,2016
+287,2016-05-02,Monday   ,2,5,May      ,2,1,2016
+288,2016-05-03,Tuesday  ,3,5,May      ,2,1,2016
+289,2016-05-04,Wednesday,4,5,May      ,2,1,2016
+290,2016-05-05,Thursday ,5,5,May      ,2,1,2016
+291,2016-05-06,Friday   ,6,5,May      ,2,1,2016
+292,2016-05-09,Monday   ,9,5,May      ,2,1,2016
+293,2016-05-10,Tuesday  ,10,5,May      ,2,1,2016
+294,2016-05-11,Wednesday,11,5,May      ,2,1,2016
+295,2016-05-12,Thursday ,12,5,May      ,2,1,2016
+296,2016-05-13,Friday   ,13,5,May      ,2,1,2016
+297,2016-05-16,Monday   ,16,5,May      ,2,1,2016
+298,2016-05-17,Tuesday  ,17,5,May      ,2,1,2016
+299,2016-05-18,Wednesday,18,5,May      ,2,1,2016
+300,2016-05-19,Thursday ,19,5,May      ,2,1,2016
+301,2016-05-20,Friday   ,20,5,May      ,2,1,2016
+302,2016-05-23,Monday   ,23,5,May      ,2,1,2016
+303,2016-05-24,Tuesday  ,24,5,May      ,2,1,2016
+304,2016-05-26,Thursday ,26,5,May      ,2,1,2016
+305,2016-05-27,Friday   ,27,5,May      ,2,1,2016
+306,2016-05-30,Monday   ,30,5,May      ,2,1,2016
+307,2016-05-31,Tuesday  ,31,5,May      ,2,1,2016
+308,2016-06-01,Wednesday,1,6,June     ,2,1,2016
+309,2016-06-02,Thursday ,2,6,June     ,2,1,2016
+310,2016-06-03,Friday   ,3,6,June     ,2,1,2016
+311,2016-06-06,Monday   ,6,6,June     ,2,1,2016
+312,2016-06-07,Tuesday  ,7,6,June     ,2,1,2016
+313,2016-06-08,Wednesday,8,6,June     ,2,1,2016
+314,2016-06-09,Thursday ,9,6,June     ,2,1,2016
+315,2016-06-10,Friday   ,10,6,June     ,2,1,2016
+316,2016-06-13,Monday   ,13,6,June     ,2,1,2016
+317,2016-06-14,Tuesday  ,14,6,June     ,2,1,2016
+318,2016-06-15,Wednesday,15,6,June     ,2,1,2016
+319,2016-06-16,Thursday ,16,6,June     ,2,1,2016
+320,2016-06-17,Friday   ,17,6,June     ,2,1,2016
+321,2016-06-21,Tuesday  ,21,6,June     ,2,1,2016
+322,2016-06-22,Wednesday,22,6,June     ,2,1,2016
+323,2016-06-23,Thursday ,23,6,June     ,2,1,2016
+324,2016-06-24,Friday   ,24,6,June     ,2,1,2016
+325,2016-07-01,Friday   ,1,7,July     ,3,2,2016
+326,2016-07-07,Thursday ,7,7,July     ,3,2,2016
+327,2016-06-27,Monday   ,27,6,June     ,2,1,2016
+328,2016-06-28,Tuesday  ,28,6,June     ,2,1,2016
+329,2016-06-30,Thursday ,30,6,June     ,2,1,2016
+330,2016-07-04,Monday   ,4,7,July     ,3,2,2016
+331,2016-07-05,Tuesday  ,5,7,July     ,3,2,2016
+332,2016-01-01,Friday   ,1,1,January  ,1,1,2016
+333,2016-01-28,Thursday ,28,1,January  ,1,1,2016
+334,2016-06-29,Wednesday,29,6,June     ,2,1,2016
+335,2016-07-06,Wednesday,6,7,July     ,3,2,2016
+336,2016-07-11,Monday   ,11,7,July     ,3,2,2016
+337,2016-07-12,Tuesday  ,12,7,July     ,3,2,2016
+338,2016-07-13,Wednesday,13,7,July     ,3,2,2016
+339,2016-07-14,Thursday ,14,7,July     ,3,2,2016
+340,2016-07-15,Friday   ,15,7,July     ,3,2,2016
+341,2016-02-14,Sunday   ,14,2,February ,1,1,2016
+342,2016-05-14,Saturday ,14,5,May      ,2,1,2016
+343,2016-05-08,Sunday   ,8,5,May      ,2,1,2016
+344,2015-11-07,Saturday ,7,11,November ,4,2,2015
+345,2015-11-15,Sunday   ,15,11,November ,4,2,2015
+346,2015-11-22,Sunday   ,22,11,November ,4,2,2015
+347,2015-12-07,Monday   ,7,12,December ,4,2,2015
+348,2014-11-26,Wednesday,26,11,November ,4,2,2014
+349,2015-11-14,Saturday ,14,11,November ,4,2,2015
+350,2015-11-27,Friday   ,27,11,November ,4,2,2015
+351,2016-07-18,Monday   ,18,7,July     ,3,2,2016
+352,2016-07-19,Tuesday  ,19,7,July     ,3,2,2016
+353,2016-07-20,Wednesday,20,7,July     ,3,2,2016
+354,2016-07-21,Thursday ,21,7,July     ,3,2,2016
+355,2015-09-12,Saturday ,12,9,September,3,2,2015
+356,2015-10-12,Monday   ,12,10,October  ,4,2,2015
+357,2015-12-12,Saturday ,12,12,December ,4,2,2015
+358,2016-03-12,Saturday ,12,3,March    ,1,1,2016
+359,2016-06-12,Sunday   ,12,6,June     ,2,1,2016
+360,2015-08-08,Saturday ,8,8,August   ,3,2,2015
+361,2016-02-08,Monday   ,8,2,February ,1,1,2016
+362,2015-10-31,Saturday ,31,10,October  ,4,2,2015
+363,2015-01-02,Friday   ,2,1,January  ,1,1,2015
+364,2015-01-05,Monday   ,5,1,January  ,1,1,2015
+365,2015-01-07,Wednesday,7,1,January  ,1,1,2015
+366,2015-01-12,Monday   ,12,1,January  ,1,1,2015
+367,2015-01-13,Tuesday  ,13,1,January  ,1,1,2015
+368,2015-01-14,Wednesday,14,1,January  ,1,1,2015
+369,2015-01-19,Monday   ,19,1,January  ,1,1,2015
+370,2015-01-20,Tuesday  ,20,1,January  ,1,1,2015
+371,2015-01-21,Wednesday,21,1,January  ,1,1,2015
+372,2015-01-23,Friday   ,23,1,January  ,1,1,2015
+373,2015-01-26,Monday   ,26,1,January  ,1,1,2015
+374,2015-01-28,Wednesday,28,1,January  ,1,1,2015
+375,2015-01-29,Thursday ,29,1,January  ,1,1,2015
+376,2015-02-03,Tuesday  ,3,2,February ,1,1,2015
+377,2015-02-06,Friday   ,6,2,February ,1,1,2015
+378,2015-02-10,Tuesday  ,10,2,February ,1,1,2015
+379,2015-02-11,Wednesday,11,2,February ,1,1,2015
+380,2015-02-13,Friday   ,13,2,February ,1,1,2015
+381,2015-02-20,Friday   ,20,2,February ,1,1,2015
+382,2015-02-23,Monday   ,23,2,February ,1,1,2015
+383,2015-02-25,Wednesday,25,2,February ,1,1,2015
+384,2015-02-26,Thursday ,26,2,February ,1,1,2015
+385,2015-01-06,Tuesday  ,6,1,January  ,1,1,2015
+386,2015-01-09,Friday   ,9,1,January  ,1,1,2015
+387,2015-02-09,Monday   ,9,2,February ,1,1,2015
+388,2015-07-12,Sunday   ,12,7,July     ,3,2,2015
+389,2015-10-10,Saturday ,10,10,October  ,4,2,2015
+390,2016-01-10,Sunday   ,10,1,January  ,1,1,2016
+391,2016-04-10,Sunday   ,10,4,April    ,2,1,2016
+392,2015-11-08,Sunday   ,8,11,November ,4,2,2015
+393,2015-12-08,Tuesday  ,8,12,December ,4,2,2015
+394,2016-02-13,Saturday ,13,2,February ,1,1,2016
+395,2016-01-09,Saturday ,9,1,January  ,1,1,2016
+396,2016-02-09,Tuesday  ,9,2,February ,1,1,2016
+397,2016-04-09,Saturday ,9,4,April    ,2,1,2016
+398,2016-03-25,Friday   ,25,3,March    ,1,1,2016
+399,2016-05-25,Wednesday,25,5,May      ,2,1,2016
+400,2014-11-13,Thursday ,13,11,November ,4,2,2014
+401,2016-06-11,Saturday ,11,6,June     ,2,1,2016
+402,2016-07-22,Friday   ,22,7,July     ,3,2,2016
+403,2016-07-25,Monday   ,25,7,July     ,3,2,2016
+404,2016-07-28,Thursday ,28,7,July     ,3,2,2016
+405,2016-07-29,Friday   ,29,7,July     ,3,2,2016
+406,2016-08-01,Monday   ,1,8,August   ,3,2,2016
+407,2016-07-26,Tuesday  ,26,7,July     ,3,2,2016
+408,2016-08-02,Tuesday  ,2,8,August   ,3,2,2016
+409,2016-08-05,Friday   ,5,8,August   ,3,2,2016
+410,2016-08-09,Tuesday  ,9,8,August   ,3,2,2016
+411,2016-08-12,Friday   ,12,8,August   ,3,2,2016
+412,2016-03-20,Sunday   ,20,3,March    ,1,1,2016
+413,2015-02-04,Wednesday,4,2,February ,1,1,2015
+414,2016-04-02,Saturday ,2,4,April    ,2,1,2016
+415,2016-05-28,Saturday ,28,5,May      ,2,1,2016
+416,2014-11-07,Friday   ,7,11,November ,4,2,2014

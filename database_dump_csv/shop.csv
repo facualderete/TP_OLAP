@@ -1,0 +1,351 @@
+id,name,source_id,zipcode,cuit,charges,date,terminals,charge_mode,category,client_source,id_location
+481,empanadas gourmet,1ffc9760429a11bdf5d390869e85eac1e5ff28df,1406,20207361942,"229,90",2015-05-19,1,débito automatico cbu,restaurant,web,130
+482,bazar de la esquina,2d125e6cb1dd2a398a859655254d2044d289885e,1425,27188760843,"508,20",2016-01-26,2,débito automatico cbu,servicios,web,131
+483,almacŽn de pizza,809c80f98244ac82c1c2831b990e9d4fe091708e,1414,30714978205,"907,50",2016-06-06,3,débito automatico cbu,restaurant,inlat,133
+484,llongueras,3558859619113979e87fc6cc0041b309b760711f,1406,30711810931,"1839,20",2015-07-07,8,débito automatico cbu,peluqueria,los 4,130
+485,md 58,23f9df21fa6473352a35e949568383e3d7e44fc8,1663,30712418660,"1815,00",2016-05-17,6,débito automatico cbu,indumentaria,web,135
+486,indumentaria,6a055e4c3b9424097e4de22cd79b5c2027c2916c,2600,30708819707,"229,90",2015-07-22,1,débito automatico cbu,indumentaria,sebastian,136
+487,global,ec3dcaba2233f6f620c9e52c98ac2ec2c9e53f2d,1408,30714309753,"2117,50",2016-05-06,7,débito automatico cbu,supermercado,web,137
+488,empanadas el guormet,1ffc9760429a11bdf5d390869e85eac1e5ff28df,1406,30714459216,"229,90",2015-05-19,1,débito automatico cbu,restaurant,web,130
+489,estaci—n de servicio,13f03eba0c00be376b0d63b0cb528fd73d490d02,5584,30527651332,"2528,90",2015-10-23,11,débito automatico cbu,combustible,web,141
+490,corte porte–o,6b0ee62671c57044cac009af03a47c8d23a2f584,1046,20385206942,"302,50",2016-05-20,1,,supermercado,web,142
+491,amacom srl,d30e06c3c27eaf01764cead59781d964be0eaea0,1875,33684313709,"9256,50",2016-06-03,45,débito automatico cbu,software & tecnología,movistar,143
+492,amma,993fa195bb2a8b319bcd66c89fc80570cd8ede6f,1084,30708300671,"302,50",2016-04-27,1,débito automatico cbu,indumentaria,web,144
+493,legacy bahia blanca,2ce6385c2acd2cf5e7d77b954d4e359450a43abb,8000,27162062005,"302,50",2016-05-12,1,débito automatico cbu,indumentaria,web,145
+494,confiteria havana,22912c230b53984b4cdac91b2b248fb05e013e27,1428,30711399557,"1210,00",2016-03-21,4,débito automatico cbu,restaurant,web,129
+495,positivo,76ed0ef39676130c03d832cdf066d63226f8475d,3003,23136330799,"302,50",2016-05-31,1,débito automatico cbu,indumentaria,web,146
+496,eikeel,dd2465be24e954c546b7a158e3119c6e976e6135,1046,33711988829,"605,00",2016-05-31,2,débito automatico cbu,indumentaria,web,142
+497,advanced,7f2a7c3575e204a5ffb5702153fed545f852afbe,1642,30708736739,"1778,70",2015-12-28,7,débito automatico cbu,indumentaria,captia,138
+498,aca bahia,b076c3e928ae4a7cd8f005050c3dc9fe76f423d4,8000,30707688528,"254,10",2016-02-12,1,débito automatico cbu,combustible,web,145
+499,ciudad muebles,cb12c5c6d411ec88ceb926433a33de161cb7cfd0,1754,30714570583,"350,90",2016-04-27,1,transferencia,,web,147
+500,arrate,533c08188cb40a69b7fe9898d7ac317a7ed39b69,7630,20132073237,"2069,10",2015-08-19,9,débito automatico cbu,automovil,mariano - zoologic,148
+501,las gauras aromas,f530ae603faef12364bb219386a2ba01d212d012,8300,20382986882,"254,10",2015-10-01,1,débito automatico cbu,supermercado,web,149
+502,club de la milanesa mendoza,b5373aeef782639722aebbf6d2735a1805eedd47,5505,30713544104,"302,50",2016-04-21,1,débito automatico cbu,,jimmy,150
+503,auto entrada,df4ca66b861500d74c8eae8f4e5fc6e4a5574645,5009,30710354622,"907,50",2016-05-12,3,,servicios,maer soft,152
+504,canta el gallo,136f8d8462ed4df70967328ed8cd5a0ecd7f29f6,1054,30714478423,"1512,50",2016-03-23,5,débito automatico cbu,restaurant,web,153
+505,alambres balagna,100d01c36c0e49aa554d500b67e85ecefc239498,7600,20044617448,"302,50",2016-05-24,1,débito automatico cbu,servicios,web,154
+506,macowens,0c471a41b4147da906bcd8ed54de7f288fe18463,1408,27000522738,"254,10",2015-12-14,1,débito automatico cbu,indumentaria,web,137
+507,barballaco,bb60e538ad47c4aab268293bdf82016de833ef63,5927,30712434879,"302,50",2016-04-22,1,débito automatico cbu,venta de articulos hogar,web,156
+508,santa pola,dcc2f2f6e17217eec3b9700e57fd5fd58feeaeb3,1686,20256383358,"254,10",2016-02-25,1,débito automatico cbu,indumentaria,web,157
+509,bazar del puerto,a2683611b408c4a61997cb17cd6e49d54c5e7c41,1644,30712034439,"1815,00",2016-05-31,6,débito automatico cbu,regaleria,web,160
+510,olimpo spa,91e581f76b4f07c1323e40082683b4c1fd02101b,1897,27251453263,"762,30",2015-10-07,3,débito automatico cbu,salud,web,161
+511,olimpo spa,91e581f76b4f07c1323e40082683b4c1fd02101b,1900,27273841755,"762,30",2015-10-07,3,débito automatico cbu,salud,web,162
+512,mimo - la plata,930628283ad9243c56d60b4699685d3050e22f69,1900,30714009113,"508,20",2016-01-13,2,débito automatico cbu,indumentaria,web,162
+513,bertin peluquerias,42e547d00a3df022621e7759ac6282cc9418ee22,8000,20237579179,"605,00",2016-03-24,2,débito automatico cbu,peluqueria,web,145
+514,art. para bebe,fb5ec426822ef7839f3a2daa3153735512f8a75f,1092,30712372156,"229,90",2015-06-17,1,débito automatico cbu,indumentaria,web,164
+515,bien del sur,4ef6332f4012a5e5fb4d396e872f18d139d10194,8324,30710718934,"459,80",2015-07-14,2,débito automatico cbu,,captia,165
+516,lya deco,10bd2300b7feb61f2d5cb742286f2b4b2079e2eb,2760,30714579734,"254,10",2015-10-28,1,débito automatico cbu,venta de articulos hogar,web,166
+517,go pets,bcb1a4575a0eb5514ae643fa53e191ddcde1ab6a,1670,30714839329,"229,90",2015-07-17,1,transferencia,veterinarias,web,167
+518,ypf san cristobal,ceafa54a7f5903d19730f43dc8f2dcaad61e8ab7,4200,33659778209,"302,50",2016-03-30,1,débito automatico cbu,,mendoza,168
+519,go bar,4ca9b2135310b8ef65313e1cb058cc08e541f58e,5570,20213746775,"302,50",2016-05-17,1,débito automatico cbu,restaurant,mendoza,169
+520,bonus track turismo,85c5695daf2606b2e1dad0a2eca9ea3b3e0d058e,3400,30709976881,"762,30",2015-10-08,3,débito automatico cbu,servicios,nea,171
+521,sparring center,0b586fccbf9f9e1ff302789ef951dde0a4725297,1414,30715024531,"314,60",2016-02-23,1,transferencia,deporte,web,133
+522,brook cafe,7685413ac077a828077f477c26b71c0df40c01db,3400,30714721735,"302,50",2016-03-09,1,débito automatico cbu,,nea,171
+523,llongueras,3558859619113979e87fc6cc0041b309b760711f,1116,30714674710,"1839,20",2015-07-07,8,débito automatico cbu,peluqueria,los 4,173
+524,vigneron,626acb11f6c6e2fd61dfba5e2ca2426688aa8ed5,5500,30715015672,"254,10",2015-12-28,1,débito automatico cbu,servicios,web,174
+525,cyw combustibles,5f0f1dbe19ff066ec70a3efb5356c181adc5c2b2,3630,30708959967,"302,50",2016-03-22,1,débito automatico cbu,combustible,web,175
+526,la parolaccia,904ff27a08a6f01db5509c567283e7eb980a5f27,1107,30699668083,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,176
+527,tiendas fridas,51e7f43384dfdedd121b070d50f94a325032e2c0,1663,20293687065,"254,10",2015-11-24,1,débito automatico cbu,indumentaria,web,135
+528,quimeyquipan-,2ec30e0eadb2927767ea0d092a706a6b862aee08,9121,27147573206,"302,50",2016-03-04,1,débito automatico cbu,restaurant,web,177
+529,pina indumentaria,6e3b57e13b2dfec6440e02d25699fc9024fedd21,1640,27249602022,"229,90",2015-06-23,1,débito automatico cbu,indumentaria,web,178
+530,hotel san francisco,e53cf7771687f56a0d97a5f6649873bf30b2c89e,4400,20224553650,"350,90",2016-05-20,1,transferencia,servicios,web,179
+531,ciro restobar,1690f7def910686d4deeb5ba88f69d353bae0d64,3400,20278893627,"302,50",2016-06-06,1,débito automatico cbu,,nea,171
+532,la tentacion,62de63b00b4d4d2de4afcd7e6af633132d6f2482,3260,27281904685,"508,20",2015-12-09,2,débito automatico cbu,indumentaria,web,181
+533,presente perfecto,fa0779768a647a21eb6ed7adec3fda871c8e8651,1663,27333994955,"254,10",2015-12-17,1,débito automatico cbu,regaleria,web,135
+534,maderera saladas,ffa3f95ec2c3971ff61470baf2324595d1121085,3409,20310517462,"254,10",2016-02-11,1,débito automatico cbu,,nea,182
+535,perfumeria crayon,3b2d5ee7776259e1c75e3ec8fd735efd866b157d,1425,20202970290,"1270,50",2016-03-10,5,débito automatico cbu,,inlat,131
+536,las cantus,37af3344691af7a8d271ac7510e479b52f5f0ebd,1424,27286017679,"302,50",2016-05-31,1,débito automatico cbu,,venta calle,183
+537,mobi-center,33c6fee03df6f5880716e465fdbe5aadd5ef2c1d,1005,20245451947,"229,90",2015-04-27,1,débito automatico cbu,software & tecnología,web,184
+538,acrimev,362108297a56a272befe4d2d7edd00a0585edd17,3000,30674594832,"254,10",2015-09-08,1,transferencia,servicios,web,185
+539,peuman,f8ab0ac74028c35c017b22958aa3db487e6698b0,1424,23317282419,"254,10",2015-11-24,1,débito automatico cbu,servicios,web,183
+540,las agustinas,e478a21d3c05a891b06ca788aa88abde9cc5c8de,1406,20311647483,"459,80",2015-06-23,2,débito automatico cbu,indumentaria,sebastian,130
+541,fussetti,d7d62d05066edbc5165648661bac51a8cbe07776,2000,27164835745,"2722,50",2016-04-26,9,débito automatico cbu,,inlat,187
+542,tiendas abacaxi,12a7953d366cd2ed3e97bfff162418077b9fb3f6,5400,30714217476,"3509,00",2016-05-24,10,transferencia,indumentaria,web,189
+543,tc shop,f3130cccc4faf1b53da983e52c48f30c1360e86a,1430,20235455081,"314,60",2015-11-19,1,transferencia,software & tecnología,web,190
+544,anacleta,1df50f7d8f4d0313b7da7b1c8ba3c24e42688c55,1661,23261427834,"302,50",2016-05-18,1,débito automatico cbu,indumentaria,web,180
+545,chen ruxue,23df58beddba43ee3a604aeec273fcacabb467f6,1417,27949586907,"254,10",2015-09-10,1,débito automatico cbu,supermercado,icbc,192
+546,city - cell,d3318c3b2897712663f6e54c15cea4c4f7aef97b,2000,30707997415,"254,10",2015-11-17,1,débito automatico cbu,software & tecnología,web,187
+547,rosario bz,655441cdeedb7db97af6110b615fece83387b600,4400,27240726810,"302,50",2016-03-23,1,débito automatico cbu,indumentaria,web,179
+548,ede servicios y ayacucho,50bda7d8f24831d3dab944164bdb48ee56530edf,7150,30714609110,"459,80",2015-03-26,2,débito automatico cbu,combustible,web,194
+549,comercial chacabuco s.a.,d38b1b67b9f0478edc52bdd663a3c7646cddd1f7,3400,33653747689,"1016,40",2016-03-08,4,débito automatico cbu,,nea,171
+550,fahrdistribuidora,b47b3685db635f177b33d5caa4c0019ba9504a63,3500,27264711164,"254,10",2015-08-21,1,débito automatico cbu,automovil,web,195
+551,navarro,ab836f91f83af810ff86234a8afa33032e35722f,1425,30712293000,"605,00",2016-05-11,2,débito automatico cbu,indumentaria,web,131
+552,cooperativa electrica de consumo,32efaa062869004b833bcea26b5a5e2ded5a60f0,6400,30545701711,"919,60",2015-03-25,4,transferencia,venta de articulos hogar,gustavo oldani,196
+553,pitagoras,5f61c98997342ae7de0e3b3efed11afbfd2c4b6e,3600,20342641432,"254,10",2016-01-29,1,débito automatico cbu,indumentaria,web,197
+554,girasoles,2acf356362a751c3f295b36f409ba21c24f9e40f,8400,27220484128,"254,10",2015-11-19,1,débito automatico cbu,regaleria,web,198
+555,johnny b good,b5373aeef782639722aebbf6d2735a1805eedd47,5500,30712014594,"302,50",2016-04-21,1,débito automatico cbu,,jimmy,174
+602,naive,43fc9cec88e820e4fe96cc11a621a96562a9eeef,1832,20360860508,"302,50",2016-05-26,1,débito automatico cbu,indumentaria,web,158
+556,corrientes sistemas  s.r.l.,8d1579405f347f362d48ed627eaa7bcef022791d,3400,30707768793,"508,20",2016-02-05,2,débito automatico cbu,software & tecnología,nea,171
+557,legacy cordoba,956f9a3a62af01bcabf455f3de3a984daa280534,5000,27115825769,"254,10",2016-03-10,1,débito automatico cbu,,jimmy,199
+558,cardon casa matriz,fb57f3e1fed0b13aad7d57d1ac4b13154429e96f,1014,30707937382,"4573,78",2015-12-09,23,débito automatico cbu,indumentaria,referido por empleado,200
+559,sesytel solutions,cb5ee54d325c0388f11b2760fee5d90db795b460,1822,20138006108,"254,10",2015-09-02,1,transferencia,,captia,201
+560,libreria cœspide,2398cd988cbe168b6191c073ca8ae7cd25c8af26,1286,30539097810,"12100,60",2016-05-11,68,débito automatico cbu,,los 4,202
+561,piacere,cbab0bd344632096628af0d271ed064d453d7e4f,1073,20307423236,"459,80",2015-08-14,2,débito automatico cbu,restaurant,captia,203
+562,outlast,a57818d2e48c090d507a6bc238667a3a20460982,1900,30714813567,"1210,00",2016-05-24,4,débito automatico cbu,indumentaria,inlat,162
+563,ruedas argentinas sacifia,88e446da9acf26ee56f7b00a7fba869c3f89c9b9,1414,30711216037,"1210,00",2016-05-26,4,débito automatico cbu,,inlat,133
+564,piacere,cbab0bd344632096628af0d271ed064d453d7e4f,1417,30715061615,"459,80",2015-08-14,2,débito automatico cbu,restaurant,captia,192
+565,damonte,3d3739bc6a9df0fb3ee8f66f0219399c2b0cbe31,8370,20259694974,"314,10",2016-02-02,1,transferencia,servicios,web,204
+566,terra mania,9449eff64d4db6d3e7760087e99854dfb5a9c91d,1629,23166816149,"1016,40",2016-02-22,4,transferencia,,mariano - zoologic,163
+567,corrientes sistemas s.r.l.,8d1579405f347f362d48ed627eaa7bcef022791d,3400,20256506077,"508,20",2016-02-05,2,débito automatico cbu,software & tecnología,nea,171
+568,macowens - villa urquiza,23c75fe6d480ac0439c64f6ce5f4ec5c913b257b,1431,20141570898,"508,20",2016-01-29,2,débito automatico cbu,indumentaria,web,205
+569,legacy roca,e0b3961ad503f6e63e591821607e03db823b6972,8332,27238889389,"254,10",2016-02-01,1,débito automatico cbu,indumentaria,jimmy,206
+570,advanced,7f2a7c3575e204a5ffb5702153fed545f852afbe,1123,27149523311,"1778,70",2015-12-28,7,débito automatico cbu,indumentaria,captia,207
+571,dengom (centro bridgestone),4a5621e74c5f2e4787d399dbd893ce6857362118,1267,30711252904,"302,50",2016-04-21,1,débito automatico cbu,,jimmy,208
+572,casa libra,17a1486f182e2c6fe24af367126852d31d79f5e0,2134,20162719476,"302,50",2016-05-28,1,débito automatico cbu,venta de articulos hogar,web,209
+573,markova,f84f90917ab797253b02d22e2bdd30d1b5c93a64,1425,30714324167,"6098,40",2016-03-28,24,transferencia,indumentaria,inlat,131
+574,+ uno informatica,394853c65868a4e32070dd4e98c61b3229a2da2e,3400,30714157694,"302,50",2016-04-05,1,débito automatico cbu,,nea,171
+575,agua y gas,106791e7408a35f228c473d50d3e1ef62bfd9f73,1708,33710025679,"1815,00",2016-04-05,6,transferencia,servicios,web,134
+576,divisadero,7aeda3b194e92afa825830a1b7421e1d230a3e81,7167,30651846591,"302,50",2016-04-28,1,,restaurant,referido por empleado,211
+577,califiquitra,ea13cdb73848903dd74afb480720a6a6eaaa37fc,8345,20246035343,"229,90",2015-08-20,1,débito automatico cbu,indumentaria,web,212
+578,las pepas,ccbaca18b826500750454575588e0361f6a3b857,1425,30707623795,"3908,30",2016-05-05,19,transferencia,indumentaria,los 4,131
+579,la pituca,eb18f3e171b4043ceaf33c5b8dbfecce4ba1c203,1258,30714105473,"254,10",2015-10-07,1,débito automatico cbu,restaurant,web,213
+580,scholl wear,9e3b79c4dad5c2c13af984fd3b664984ee03c091,1624,30715114603,"302,50",2016-02-29,1,débito automatico cbu,indumentaria,web,214
+581,la vieja esquina necochea,9091646eba2af4bfea97ee0a7a98f704015e070e,7630,30714019011,"605,00",2016-03-03,2,débito automatico cbu,servicios,web,148
+582,xiuquin du,b55435cef392338c840a5dc047740c05153ac624,1408,27941901714,"254,10",2015-09-29,1,débito automatico cbu,supermercado,icbc,137
+583,ecogas,3213eda487b67558783666177dd7e9f9c6253c10,4000,30685671014,"605,00",2016-05-11,2,débito automatico cbu,combustible,web,215
+584,eduardo udenia,699a0b5322b225dc0f8e8674072427424bef318c,1111,30520142807,"1573,00",2016-03-01,5,transferencia,software & tecnología,web,216
+585,el cacique,2706c9baf7a72b43d59169d3e238783b78de8aa4,1712,30710819552,"689,70",2015-06-25,3,débito automatico cbu,servicios,web,217
+586,csd y asociados,248287eeaefc9b54988a395928afd033f85a3a25,8407,30688282000,"701,80",2016-03-15,2,transferencia,servicios,referido por empleado,218
+587,electro dorrego,aa4cd30913632c6ec7b23f3002617692ce2dfb1c,5519,30707392696,"254,10",2015-12-23,1,débito automatico cbu,,mendoza,170
+588,rosa dior junior,f833c9d69fff6a12a22b52746732c38630371feb,3530,30711381240,"254,10",2015-09-10,1,débito automatico cbu,indumentaria,web,220
+589,la parolaccia,904ff27a08a6f01db5509c567283e7eb980a5f27,1648,30707826130,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,221
+590,las haras,c964ff6ec63a2b5e62332e7416f21f1394960bd8,2152,30701503623,"508,20",2015-11-25,2,débito automatico cbu,combustible,web,222
+591,austral motos,fd3bbef22a0bf339caad9bc7f2ba382b38783b07,8000,30695873936,"605,00",2016-03-22,2,débito automatico cbu,automovil,web,145
+592,cnq viajes,0be104f06b5b91226a188ddd8ac3d0c0f952516c,3400,20160659093,"302,50",2016-04-04,1,débito automatico cbu,,nea,171
+593,gimnasio,c493b5b94e73445701523175618b7e4091c51ec5,1416,20233037371,"229,90",2015-07-14,1,débito automatico cbu,deporte,web,223
+594,desigual,69a01a62d833aec5637fa122c99ba8cd6c098c92,1060,27940145258,"254,10",2015-12-14,1,débito automatico cbu,indumentaria,los 4,224
+595,satori,cbb446800ac5eacd0a8d16c6e9c61187c41e3e35,1427,30711377642,"4452,80",2016-05-10,16,débito automatico cbu,indumentaria,web,225
+596,distribuidora correntina,bcd98f0062744abfd6c28ecb37dfbe079ab7d35a,3400,20079154041,"605,00",2016-05-31,2,débito automatico cbu,restaurant,web,171
+597,sarkani devoto,6607c6133702e0eb71f483d7359113aacdc151da,1714,30714841498,"508,20",2015-12-09,2,débito automatico cbu,indumentaria,web,226
+598,rochas,9f04364272c6bf8cc3ff9a84a90f15448275b459,1414,30714059080,"605,00",2016-05-17,2,débito automatico cbu,,inlat,133
+599,aquila crossfit,0409563f8f8a204d9a44f5c277eb8524b60fc1be,1235,30714097268,"907,50",2016-06-07,3,débito automatico cbu,,inlat,227
+600,rodados paternal,1210f60a104a7ce728b2e4663f87206ca2307288,1416,20229506421,"254,10",2015-11-25,1,débito automatico cbu,automovil,web,223
+601,prototype - santa fe,f957db121371bc2cfd7f62b5317954da10aca679,3000,20240484499,"1270,50",2016-03-04,5,débito automatico cbu,indumentaria,mendoza,185
+603,green factory devoto,636cbd8f891d12797c63c1b9ff10102f652fe39f,1419,20245523867,"605,00",2016-04-26,2,débito automatico cbu,restaurant,web,230
+604,sushi club mendoza,b5373aeef782639722aebbf6d2735a1805eedd47,5505,30710871635,"302,50",2016-04-21,1,débito automatico cbu,,jimmy,150
+605,cycles,8840d3da95940a0db6afa8d653428b64b9d298dd,1427,20177154831,"459,80",2015-03-23,2,débito automatico cbu,automovil,web,225
+606,gabriel luque,4f7d8862dd1ae2d009676535abe08794101380d8,1439,20223863753,"508,20",2015-08-22,2,débito automatico cbu,servicios,captia,193
+607,rever pass,a0e13b5efac3dad061c6ba733e51ed74da857371,1629,20354471435,"605,00",2016-06-01,2,débito automatico cbu,indumentaria,web,163
+608,punto.com,65b71c560d9dc128a379d68c93cc387b01d42ff6,2000,20228332969,"254,10",2015-10-15,1,débito automatico cbu,software & tecnología,web,187
+609,rocky point,5f34dcc08b904c7e1b1514b039e4ac5b8468200c,1704,30712046887,"254,10",2015-12-03,1,débito automatico cbu,indumentaria,web,231
+610,prune,ee1be56dcc10002de2591cddbe8112d5d8589de2,1414,30708402911,"9675,00",2015-11-06,,transferencia,indumentaria,los 4,133
+611,legacy - ramos,50070439f45cbb9df1a126f1da167bc66130824d,1704,27126668916,"302,50",2016-03-15,1,débito automatico cbu,indumentaria,jimmy,231
+612,gigaflop,b2f7bd87c59fa9da73f5c2c3580b5d124638880f,1017,30710566468,"302,50",2016-05-30,1,débito automatico cbu,software & tecnología,web,233
+613,lenceria dafne,4b50c58a007cd1f82a8160adaae69e68b263cef1,8316,20166715025,"302,50",2016-05-31,1,débito automatico cbu,indumentaria,web,234
+614,cardon formosa,4fa95e35d6e3d99edc0dd707efc17ee9234263c9,3600,30707366997,"254,10",2015-10-09,1,débito automatico cbu,indumentaria,nea,197
+615,tucci,6607c6133702e0eb71f483d7359113aacdc151da,1714,20256382882,"508,20",2015-12-09,2,débito automatico cbu,indumentaria,web,226
+616,autoservicio san cayetano,6fe2659c3c9d04785f33675e975abe667adbd285,1605,20248627671,"254,10",2015-10-16,1,mercadopago,supermercado,web,235
+617,clinica en belgrano,6f5c1ac821668e9e17b8d2fe35df3721d35f80e8,1426,27236057726,"302,50",2016-03-15,1,,farmacia,referido por cliente,151
+618,gonal,baacc385582929731f56b5b40f89df1b6337ec4d,1609,20270116834,"350,90",2016-05-12,1,transferencia,indumentaria,web,236
+619,lookout,bd50a2a340ea1b647861bbe5e4bcbb1dd8408e4e,1643,30714963437,"605,00",2016-04-19,2,débito automatico cbu,opticas,web,237
+620,gran hotel azul,88352f6445f387878e208ce0c425407433fb9a96,7300,30526582264,"229,90",2015-04-21,1,débito automatico cbu,hoteles,web,238
+621,gratitude,97b041336ccb6c56ef3f3f5bb8f73d507005d6df,1642,30714203416,"508,20",2015-09-02,2,débito automatico cbu,servicios,web,138
+622,green factoring adrogue,636cbd8f891d12797c63c1b9ff10102f652fe39f,1846,30714825352,"605,00",2016-04-26,2,débito automatico cbu,restaurant,web,239
+623,meli‡,17f5d3238292dc854629072fab640acd715a030c,1003,30652145678,"1948,10",2016-04-12,7,débito automatico cbu,,inlat,240
+624,frabric - sashimi,0b874265f2e437b76687a9a08b1883499b11a252,1638,30714874159,"254,10",2015-12-21,1,débito automatico cbu,restaurant,web,242
+625,almacŽn de pizza,809c80f98244ac82c1c2831b990e9d4fe091708e,1414,30711332800,"907,50",2016-06-06,3,débito automatico cbu,restaurant,inlat,133
+626,mundo infantil,5031b2229ee3300d8392639cf78f1536cfceef07,"",27257194812,"302,50",2016-05-31,1,débito automatico cbu,jugueteria,web,243
+627,sanitarios casa franco,07268eda216f459c465e128aad35ca62049ad7a1,1757,27206407552,"229,90",2015-08-18,1,débito automatico cbu,venta de articulos hogar,web,244
+628,sanitario hokama,7586ef98faf9c09b0f1fd690feeae1e71624aeaa,1663,20165491492,"314,60",2015-11-12,1,transferencia,servicios,web,135
+629,iaorana,1a708f0ca123a54c407e18177967478f298dcbaf,1640,30710979266,"605,00",2016-04-26,2,debíto automatico tarjeta de crédito,,web,178
+630,imagen digital,09022aecfbabeb75e312e95900c3aafd4dfa82d0,3400,30714133353,"254,10",2015-12-01,1,débito automatico cbu,,nea,171
+631,bensimon,dfe291c2776c3e1a3ec3ebc6cefc90578d6eb085,5500,30710876750,"762,30",2015-09-08,3,débito automatico cbu,indumentaria,web,174
+632,santaria el angel,19bf9891e2644ae65b17e8dcea96928b35085b82,8400,30711359016,"229,90",2015-05-29,1,débito automatico cbu,servicios,web,198
+633,pezzati viajes,b6da87bce046973a3292586facceb16b42533f9f,7600,30676757917,"4368,10",2016-02-04,19,débito automatico cbu,,web,154
+634,casa alcorta,f76aa1b4ad4305b91fff4fb3f92a5ee37da47be8,1425,27173678210,"254,10",2015-12-28,1,débito automatico cbu,regaleria,web,131
+635,la parolaccia ,904ff27a08a6f01db5509c567283e7eb980a5f27,1116,30691147572,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,173
+636,casa avenida,108f8f61459f4e54e41854b9de358a0387d0488f,1614,20166388083,"254,10",2016-02-02,1,débito automatico cbu,servicios,web,246
+637,franks - bar,71b547a0669804af8e266d79f222e448fc39f666,1414,33711566169,"459,80",2015-05-20,2,débito automatico cbu,restaurant,nps,133
+638,canta el gallo,136f8d8462ed4df70967328ed8cd5a0ecd7f29f6,1670,30709453900,"1512,50",2016-03-23,5,débito automatico cbu,restaurant,web,167
+639,las tablas nordelta,0a511738cf9d23fcf5c4c1b97f9f70fec50b7def,7080,30709453900,"302,50",2016-04-12,1,,restaurant,web,247
+640,cuatro musas,8dbc61c3cd7b6fa62e9c3c388479d84568cf2d7b,1425,27319933595,"229,90",2015-04-08,1,débito automatico cbu,indumentaria,web,131
+641,joyeria leonardo,671a82ae8308baa6a692bedb1b54e1e5e2ca65b5,1900,30712153918,"508,20",2015-10-15,2,débito automatico cbu,servicios,web,162
+642,la juvenil,f4ff0da31ab6dc1a1de46c11d69efdb63ebd6030,1005,30699203013,"907,50",2016-04-20,3,débito automatico cbu,,inlat,184
+643,apuestoba,46624d2bb571dc50a48273da414e321b57e52554,1440,20302205494,"302,50",2016-03-10,1,débito automatico cbu,indumentaria,web,248
+644,cardon cordoba,e6a05b1ccf04e5a40996322d5b38566a1af58900,5000,30712117237,"1270,50",2015-12-04,5,transferencia,,referido por empleado,199
+645,brigranti,3c777ab98eaac6d6c445557183876cfb8a0a3753,1005,30631965284,"1149,50",2015-04-14,5,débito automatico cbu,indumentaria,web,184
+646,legacy - el galpon,45fd8c72315310e2823199e8ef4f15d8a768380b,1024,30709405086,"508,20",2016-01-14,2,débito automatico cbu,indumentaria,web,249
+647,llongueras,3558859619113979e87fc6cc0041b309b760711f,1426,30712112979,"1839,20",2015-07-07,8,débito automatico cbu,peluqueria,los 4,151
+648,owoko,284f09eeb43e26d84ca198656031a050c33a0055,1419,30708715642,"3811,50",2016-04-29,11,transferencia,,inlat,230
+649,electro zuski,61749a482f5169400d5eca063c5d1c97c2dfa1e8,8400,20282365597,"302,50",2016-04-28,1,débito automatico cbu,automovil,web,198
+650,old bridge,3d0ca0a1fb88c6268c9a9923220c75a0ce27b28d,5525,30714053767,"459,80",2015-06-11,2,mercadopago,indumentaria,web,250
+651,owoko,284f09eeb43e26d84ca198656031a050c33a0055,1900,30714806595,"3811,50",2016-04-29,11,transferencia,,inlat,162
+652,comercio de decoraci—n,841ba6d5f38d868c67438a9f74abebef754f683b,1640,27205035759,"254,10",2015-11-04,1,débito automatico cbu,servicios,captia,178
+653,la esquina del neum‡tico,ee680fcd3cda8877e8a3e323220c97b11c7c1740,1429,30708196661,"2117,50",2016-05-30,7,débito automatico cbu,automovil,venta calle,210
+654,parrilla la cabrera,4f023aeb9466e276383f51c19d320e3cb75e5250,1414,30709124982,"1778,70",2016-01-29,7,débito automatico cbu,,los 4,133
+655,la esquina del neum‡tico,ee680fcd3cda8877e8a3e323220c97b11c7c1740,1602,33707053149,"2117,50",2016-05-30,7,débito automatico cbu,automovil,venta calle,251
+656,la esquina del neumatico,ee680fcd3cda8877e8a3e323220c97b11c7c1740,1187,30708822295,"2117,50",2016-05-30,7,débito automatico cbu,automovil,venta calle,252
+657,la ruta s.a.,c015546df49acdcac69bcc4730a3631a650d17b3,3400,33714331529,"762,30",2016-03-08,3,débito automatico cbu,combustible,nea,171
+658,relojeria suiza,af2d43391f7e17279aae01ae6c5eb698f1294ca6,9000,20938972940,"1512,50",2016-04-06,5,débito automatico cbu,servicios,web,229
+659,lacteos la carreta srl,39b3fa072d76f140f8b002aacf4cf61d9d44093e,1611,33709255229,"302,50",2016-05-30,1,débito automatico cbu,,venta calle,253
+660,fierro,eb429a4cae4222ad53406f2f6e198ab1afdb324f,1414,30709533939,"302,50",2016-05-16,1,débito automatico cbu,servicios,web,133
+661,la parolaccia,904ff27a08a6f01db5509c567283e7eb980a5f27,1428,30691251191,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,129
+662,kona queen,52e9bc30ebc045a066f25962cfda7cee5f4952e6,1414,20318598003,"254,10",2015-12-01,1,débito automatico cbu,indumentaria,web,133
+663,cinema,6ed238ba50e93682fb830158d39fbad7f676af8a,8504,27271131335,"605,00",2016-03-23,2,débito automatico cbu,software & tecnología,web,254
+664,lee juei yuan,d563ef51b1c57f51f068b6f276273e605b33d2d6,1425,20927297478,"254,10",2015-09-10,1,débito automatico cbu,supermercado,icbc,131
+665,freddo franquicia,2b60bca4691d2facf333e74e8825ee2d9e26a4b4,1827,30715012630,"302,50",2016-05-16,1,débito automatico cbu,servicios,web,255
+666,ephra,1dbe2c9851437eaca1913aa44f74130292bfbf0b,1057,27293159896,"302,50",2016-05-31,1,débito automatico cbu,indumentaria,web,256
+667,el chiche,61241b5a4af3aca89bc4d6112ec24e5ade6ebbc1,1607,20056038168,"314,60",2015-11-11,1,transferencia,supermercado,web,257
+668,advanced,7f2a7c3575e204a5ffb5702153fed545f852afbe,1431,33708204779,"1778,70",2015-12-28,7,débito automatico cbu,indumentaria,captia,205
+669,olimpo spa,91e581f76b4f07c1323e40082683b4c1fd02101b,1897,27936075660,"762,30",2015-10-07,3,débito automatico cbu,salud,web,161
+670,davor,8b7fbd9f99cd943226687abea9f84c64dab3aa04,1004,30712450440,"3327,50",2016-05-24,11,débito automatico cbu,,inlat,259
+671,lin yuzhen,2b0073be87f1199af2e1b3efdbf82efc64074eca,1407,27940539116,"254,10",2015-09-10,1,débito automatico cbu,supermercado,icbc,260
+672,moderno bazar,14884b7e1aa6e9f3c3c74b8c1265124b9595f95d,1428,20262808557,"229,90",2015-08-26,1,transferencia,servicios,captia,129
+673,eyelit,97a68c3436d644d089af47b6399d3859f8a8e9c3,1414,30714102245,"302,50",2016-06-02,1,débito automatico cbu,,venta calle,133
+674,bellabu indumentaria,1d451f656914f018d3bd004b7a72b5945dc79c9c,3700,27361903973,"254,10",2015-10-21,1,débito automatico cbu,indumentaria,web,261
+675,muy fresco,fda51faf0b1140535522a9d03c9f23723d8d9482,3342,20228229424,"919,60",2015-08-12,4,débito automatico cbu,,web,262
+676,polo house,366a506f16a776db30b9f3e2878f391218abde96,1425,30678920408,"302,50",2016-05-26,1,débito automatico cbu,indumentaria,venta calle,131
+677,m51,5850c64e6d82e14dfa5c1fe58200abe302a2b49f,1832,27246286561,"254,10",2015-10-06,1,,indumentaria,web,158
+678,opticas lookout,dbc5f67af6316764a2aa2103f339bddd54dc8720,1428,30630436644,"907,50",2016-06-07,3,debíto automatico tarjeta de crédito,opticas,web,129
+679,maxi calzados,a3d5c21380906e66bfd59358ccafdd11c7046e6a,4600,20314541104,"302,50",2016-05-30,1,débito automatico cbu,indumentaria,web,263
+680,la calandria,5012713a5d5216e2d566f99b58d8849ac89d420d,3400,30714988065,"605,00",2016-05-31,1,débito automatico cbu,alimentos,web,171
+681,joyeria licet,bde7f210b0d82e0bbbeef9d56a00532f3029d339,1012,30700901471,"508,20",2016-01-18,2,débito automatico cbu,servicios,web,264
+682,losa mil construcciones,005bf8bfe795f2a753f8336f6bbee3cb633e0831,1439,30505439429,"302,50",2016-03-03,1,débito automatico cbu,servicios,web,193
+683,lubricentro mitre sh,7f08b7b9c77d74d192141b7f999a8b5a2a721db9,2930,30714193542,"229,90",2015-05-20,1,transferencia,combustible,web,265
+684,triton sanitarios,26ce9e1c34f81ae784b5b85091a15d1ca6d7afa7,5172,20306580990,"605,00",2016-04-26,2,débito automatico cbu,,inlat,266
+685,junior b,98017b31187f8b8b084277061c35e2e20b42c5d5,5280,20296090388,"302,50",2016-04-25,1,débito automatico cbu,,inlat,267
+686,neva jop,bcd98479ced78ced1f7acfaff47e4b4d2108d330,1667,20314077971,"254,10",2016-02-23,1,débito automatico cbu,indumentaria,web,268
+687,mecanica buscaglia,5f0e36142751359c96878728a4bfa31acc83b6b8,1640,30711805784,"254,10",2015-12-15,1,débito automatico cbu,automovil,web,178
+688,kill,fc45e076576f86733a4adc63a2e25de72da100cb,1603,30707463305,"2783,00",2016-05-10,10,débito automatico cbu,,inlat,269
+689,planeta pizza corrientes,5ce4b5139db3bd5e10a6a185781993b4c229e50a,3400,20281581849,"254,10",2015-09-09,1,débito automatico cbu,restaurant,nea,171
+690,fifi almacen,2aa8dda7064e8eccb056e809b058ac03e34016e9,1414,30713438207,"302,50",2016-05-24,1,débito automatico cbu,restaurant,web,133
+691,depor fan,3604b0635832f27e827559d5352f30dcf1e7b577,1046,20180302116,"1403,60",2016-05-05,4,transferencia,deporte,mariano - zoologic,142
+692,la parolaccia,904ff27a08a6f01db5509c567283e7eb980a5f27,1107,30711875197,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,176
+693,kusta,99a5ffe420eb959f3e38a592257d2317737127cd,1406,20322685913,"254,10",2016-02-04,1,transferencia,peluqueria,web,130
+694,club de la milanesa recoleta/barrio norte/caballito,d04af20d0e88fb8fab02d7eddcdb5c7f5c40af04,1019,30714594598,"907,50",2016-04-27,3,débito automatico cbu,restaurant,jimmy,270
+695,croque madame scalabrini,3b8537998ce88f6afe201869edb7c628e9f889f0,1425,30714469688,"254,10",2016-02-03,1,débito automatico cbu,,inlat,131
+696,maria y maria,dad487d5de2be9cdceec8dc953434b285529d165,8400,27184909400,"254,10",2016-01-21,1,débito automatico cbu,indumentaria,web,198
+697,akiabara mendoza,02fed09d577ffd66ca43c5678e44834365502237,6600,27214436693,"302,50",2016-04-21,1,débito automatico cbu,,mendoza,271
+698,santa pola,dcc2f2f6e17217eec3b9700e57fd5fd58feeaeb3,1688,27284280259,"254,10",2016-02-25,1,débito automatico cbu,indumentaria,web,272
+699,perfumeria,4b8e52bdbcd0609749924f4aa675ca4b25d64900,6000,27263763322,"229,90",2015-07-30,1,débito automatico cbu,perfumeria,web,273
+700,la parolaccia,904ff27a08a6f01db5509c567283e7eb980a5f27,1428,33708727569,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,129
+701,ro spa urbano,20f551c3191fb14bd6427bbc3ae21e504ccfc88f,5000,27240125949,"254,10",2015-12-21,1,débito automatico cbu,salud,web,199
+702,full escabio,a2e17e2dc8e18000c5705be4617e7485359be76b,8000,20289449389,"302,50",2016-02-29,1,débito automatico cbu,restaurant,web,145
+703,maricel valdez,9a9ac61ee39320473917866e27877ce1e5d07ec3,9103,20267274828,"508,20",2015-11-12,2,débito automatico cbu,indumentaria,web,275
+704,bazar del puerto,a2683611b408c4a61997cb17cd6e49d54c5e7c41,1646,30714486418,"1815,00",2016-05-31,6,débito automatico cbu,regaleria,web,241
+705,meditel s.a,56491efe2f228e0da3620a1640c1e49ef4b64854,5000,30708336706,"9050,80",2016-04-21,44,transferencia,software & tecnología,web,199
+706,1946 - indumentaria,e22f524e69a72832e4b79d71c8128b9c78efcb11,7600,20122006558,"229,90",2015-04-03,1,débito automatico cbu,retail,web,154
+707,la merceria,86433f75e2c4b594f2936acc3ac342cee6e1ddf6,1414,30710977425,"762,30",2015-11-24,3,débito automatico cbu,,franchasing company,133
+708,ming chen,15c94a5ce87283338748364b4d2ddba33cb6bf61,1878,20946495248,"254,10",2015-09-29,1,débito automatico cbu,supermercado,icbc,278
+709,mio figlio,fd027b61d70133459e7f7256a49bb49336d13a17,7500,30712244611,"302,50",2016-05-10,1,débito automatico cbu,,web,279
+710,viejos tiempos,8cfc8f28011ca39410f9a8e0e7e068caab94fbb2,8407,20402691396,"302,50",2016-02-23,1,débito automatico cbu,restaurant,web,218
+711,pollo pan lujan,a9b1fe0296da59a20a7ac498fe266de7df59f6c0,5507,20249965147,"229,90",2015-06-23,1,transferencia,fast food,web,280
+712,cardon san juan,fb32a021ccbe8c2f448679c80b993de867337c29,5400,30710476922,"254,10",2015-10-28,1,débito automatico cbu,indumentaria,nea,189
+713,turiguia,cdc03e24b7716f190b26a5bc44e17f2084f504fa,5194,27245210855,"254,10",2015-09-02,1,débito automatico cbu,servicios,web,281
+714,deporvida,67e7c1e6d13c8db9034826cf460deabd56f94d00,1425,20083212013,"314,60",2015-11-03,1,transferencia,indumentaria,web,131
+715,decostore,fd2a24271bef642c2d4009c5141141ba072a7c17,8370,20239608575,"254,10",2015-12-11,1,débito automatico cbu,servicios,web,204
+716,munidepot,35bf050957fd2fefc76623627d679484adf98f26,1414,30711190755,"1210,00",2016-03-23,4,débito automatico cbu,indumentaria,web,133
+717,cony hogar ,96da8cdbda886c262a1dee0281c9845174269695,1645,20167310150,"605,00",2016-05-23,2,débito automatico cbu,,venta calle,282
+718,naima,9fb3ddfb3df25efec58fc8a6300cc90211ebdfa5,1414,30711953767,"689,70",2015-04-01,3,débito automatico cbu,indumentaria,sebastian,133
+719,school wear,9e3b79c4dad5c2c13af984fd3b664984ee03c091,1648,20124970521,"302,50",2016-02-29,1,débito automatico cbu,indumentaria,web,221
+720,jugueterias tom,5ad5ff868587e38dccc9e2eff05a787568f8b151,1428,30708415223,"1149,50",2015-08-21,5,transferencia,jugueteria,matias,129
+721,peluqueria newcon,f526484e82d07ea0367adf95badee437b904f367,1107,30714437344,"302,50",2016-05-11,1,debíto automatico tarjeta de crédito,peluqueria,web,176
+722,ruedas argentinas sacifia,88e446da9acf26ee56f7b00a7fba869c3f89c9b9,1430,30709275131,"1210,00",2016-05-26,4,débito automatico cbu,,inlat,190
+723,hotel pucara,0044b2c7e8fcf8d90230ea3c6f4184f6ba09b845,5300,27315274120,"254,10",2015-11-02,1,débito automatico cbu,hoteles,web,284
+724,nieves del chapelco,bc33255e076c029c41761776a169744ef13c4cc7,1015,30696895704,"8470,00",2016-05-24,40,débito automatico cbu,automovil,los 4,285
+725,funny look,cdc4b4d91507fed026362d85053c553abf5d3402,7600,20200399855,"302,50",2016-03-17,1,,indumentaria,web,154
+726,maquen ii,42e57768be00d57119ccaa3faa4934ab0bfa6305,8300,30712352678,"302,50",2016-04-25,1,débito automatico cbu,,mendoza,149
+727,koxis,cec00c66378cc9038d5a4403c92e632601f457c3,1642,30714599204,"254,10",2015-10-15,1,débito automatico cbu,indumentaria,web,138
+728,moderno bazar,14884b7e1aa6e9f3c3c74b8c1265124b9595f95d,1425,30710625758,"229,90",2015-08-26,1,transferencia,servicios,captia,131
+729,palermo nicolas,70f548f35b16a07f1abbbf07a5ed1b58ec751d30,1181,20263115377,"302,50",2016-05-30,1,debíto automatico tarjeta de crédito,indumentaria,web,289
+730,elepants argentina,7ce807262a4b5bfa7abc0aec920760aa639ef0a1,1428,30715130870,"229,90",2015-07-28,1,débito automatico cbu,indumentaria,web,129
+731,mirko,c63e5f283bc089792b40ee49acfdfed636f08f1f,7600,23269015144,"314,60",2015-12-28,1,transferencia,,web,154
+732,rodacar neum‡ticos,b507239851473300a81c84a89335f3aa490319fe,8500,30709402176,"605,00",2016-03-16,2,débito automatico cbu,,jimmy,188
+733,quick silver neuquen,753560c5a078c8180b87b46b137f7c54e90a2004,8300,33714119899,"302,50",2016-05-10,1,débito automatico cbu,indumentaria,web,149
+734,bit and byte,072b8b064807b1b1f5fe8931e4628796ebf163f7,9310,20146565280,"254,10",2015-10-21,1,débito automatico cbu,software & tecnología,captia,290
+735,artesanos del mar,619b6afab23dc5ceaacd64a542c78f358a00cf49,1643,33714056439,"254,10",2015-09-10,1,débito automatico cbu,restaurant,web,237
+736,petrocapital,78bccdf3f697018d0f95325aa81fdf9df5e1501f,6300,30671677397,"1113,20",2016-05-06,4,débito automatico cbu,,mendoza,291
+737,petroluro,78bccdf3f697018d0f95325aa81fdf9df5e1501f,6300,30551620855,"1113,20",2016-05-06,4,débito automatico cbu,,mendoza,291
+738,mia baby and kids,0d719fb81b80446702d616333f2425fb18b827e1,3400,20247982788,"302,50",2016-05-26,1,débito automatico cbu,indumentaria,inlat,171
+739,laguna negra,02e3f83407ec1c3d7c5b0691c1caeabff8ec357f,9410,30710218079,"605,00",2016-06-07,2,débito automatico cbu,automovil,mendoza,292
+740,magi - mundo,ea0ac0d37ea045595370e8c64b085d11d267b461,1650,30662498617,"508,20",2015-12-15,2,débito automatico cbu,jugueteria,web,293
+741,drop artistica integral,0c41d84872f6eb190619cdfb2e7d836c715ff436,5000,27943582322,"254,10",2015-10-23,1,,,web,199
+742,star game,53d450c86fef70b0ae9913e3376c1b35e2e8702c,1804,20232444860,"302,50",2016-05-24,1,débito automatico cbu,software & tecnología,web,294
+743,klara modas - pintureria del centro,f3c60bb4131fd83aecbb90ed564ebeb06dce5590,3300,30672396618,"3448,50",2016-02-04,15,débito automatico cbu,indumentaria,web,191
+744,pouch,70753c034994a80df7c602347affc1d6d401ef55,5000,30709556645,"617,10",2016-04-22,3,débito automatico cbu,venta de articulos hogar,web,199
+745,markova,f84f90917ab797253b02d22e2bdd30d1b5c93a64,1414,30708361670,"6098,40",2016-03-28,24,transferencia,indumentaria,inlat,133
+746,presente s.r.l.,fa8e7cef220229e5e5d6843fca86a561f2de4e2a,1712,30678892242,"1016,40",2016-03-16,4,débito automatico cbu,indumentaria,web,217
+747,lazaro carteras,936e135327836f55d3fc363e6365a3a234a770fb,1002,30711122911,"3630,00",2016-05-31,12,debíto automatico tarjeta de crédito,indumentaria,web,295
+748,mai mai,c6c56fd4a4ee6a676843680e97b3653fee5f45ab,1642,30708555734,"229,90",2015-07-09,1,débito automatico cbu,restaurant,web,138
+749,tienda mora,0ecd2509344860487e7310254e080b7db4e4ec35,1426,30714193860,"1512,50",2016-04-28,5,débito automatico cbu,indumentaria,web,151
+750,el chiche ,61241b5a4af3aca89bc4d6112ec24e5ade6ebbc1,1607,30714896764,"314,60",2015-11-11,1,transferencia,supermercado,web,257
+751,puelche,b15247d33943da1f504c8776b1911c2423f03382,8400,30538048190,"3908,30",2016-02-23,19,transferencia,supermercado,los 4,198
+752,remada,2d37a37bd91d509b430e12ae304231be2534ada3,1426,30710720580,"762,30",2016-01-22,3,débito automatico cbu,indumentaria,web,151
+753,supermercado todo,b15247d33943da1f504c8776b1911c2423f03382,8400,30583482667,"3908,30",2016-02-23,19,transferencia,supermercado,los 4,198
+754,radial neumaticos,1414ce2e77904edbc2bdcc9d4b4987c2b0d8d369,4000,30711787204,"350,90",2016-03-10,1,transferencia,automovil,jimmy,215
+755,castillo de la mota,52c765300faacb1ae9ddce2b5a78f64bb58951b6,3400,30714053678,"254,10",2015-10-06,1,débito automatico cbu,indumentaria,nea,171
+756,subway bolivar 181,eeeee38b62711e35a9d666a498e5bce4f00fe7d6,1066,30714686336,"254,10",2015-12-21,1,débito automatico cbu,fast food,web,296
+757,rent ar s.a,a13159379fe4c64e381677c3c690bb934b256d3a,3400,33711608899,"4452,80",2016-06-07,16,débito automatico cbu,automovil,inlat,171
+758,bar santa maria,52c1deeee483015ab91b31785a24c9d7721f0982,1426,30714910910,"254,10",2015-10-01,1,débito automatico cbu,restaurant,web,151
+759,advanced,7f2a7c3575e204a5ffb5702153fed545f852afbe,1754,27106102428,"1778,70",2015-12-28,7,débito automatico cbu,indumentaria,captia,147
+760,mundo moto,e9bd88ba37d2529087dd817f56d207abc75e1b3e,3300,20174285366,"229,90",2015-07-31,1,débito automatico cbu,automovil,web,191
+761,ristretto cafe corrientes,23781037c58af1f8d6ae49ef3ff763a377c704f5,3400,30714518131,"1524,60",2016-04-04,6,débito automatico cbu,,nea,171
+762,farmacia moreno 90,a8a3d1874c284e2b0342e9e2e1daef9215486932,1704,30709474762,"1016,40",2015-10-29,4,débito automatico cbu,servicios,web,231
+763,rocados rocamoca,cf5bc57771f11530f572b75d30d36e6f5fd58aa8,1048,30712282432,"254,10",2016-01-18,1,débito automatico cbu,restaurant,web,298
+764,rocados / rocamoca,cf5bc57771f11530f572b75d30d36e6f5fd58aa8,1112,30712283285,"254,10",2016-01-18,1,débito automatico cbu,restaurant,web,299
+765,markova,f84f90917ab797253b02d22e2bdd30d1b5c93a64,1416,30659500945,"6098,40",2016-03-28,24,transferencia,indumentaria,inlat,223
+766,muebleria neo hogar,bc51df0e463d2568867a0def2a7a9b9c7475723f,6319,20342316485,"254,10",2015-10-07,1,débito automatico cbu,servicios,web,300
+767,clm fashion,adf03bf82e3ad204a852d478643a2c6c1a582f37,5000,20190154115,"459,80",2015-09-01,2,débito automatico cbu,indumentaria,web,199
+768,cardon olavarria,ad66ab0d4bf6192209b0474cf66888c13591bc36,7400,30714685291,"302,50",2016-05-31,1,débito automatico cbu,indumentaria,web,301
+769,rouge,673389237ba9846ef6d8a6273cc4a11330740e92,3500,30710573863,"508,20",2015-11-24,2,débito automatico cbu,automovil,web,195
+770,leysa,1938bbdc9c4f20b25ee69b75f045e89655a87d9a,5400,27308050985,"302,50",2016-05-30,1,débito automatico cbu,regaleria,web,189
+771,lascoste cencosud,9c44a521f7802f386facce7fc212616ffae7aff0,8300,27230014715,"1815,00",2016-03-23,6,débito automatico cbu,indumentaria,web,149
+773,salve regina,f7d2cf6e5b41571b67857523211486ba31feb12d,1752,30714517682,"302,50",2016-06-07,1,débito automatico cbu,regaleria,mendoza,302
+774,artesanos bv,58389308d2527778352e5906bbcc1f15b15a2515,1661,27185531029,"254,10",2015-10-07,1,débito automatico cbu,,web,180
+775,sanitarios guelmib s.r.l.,a6e860e2b4674ce22be43efd84d5c08051134452,1464,30711963967,"229,90",2015-04-22,1,débito automatico cbu,servicios,jorge,303
+776,farmacia del pueblo,245f7f4622f27153e15e3ecc292a1bad3ffedc19,1640,30589411680,"1210,00",2016-05-24,4,débito automatico cbu,farmacia,venta calle,178
+777,sarako s.r.l.,cf2c4946d297532c707ac313c13999242a2e2393,4700,30714694363,"605,00",2016-05-27,2,débito automatico cbu,automovil,web,304
+778,la parolaccia ,904ff27a08a6f01db5509c567283e7eb980a5f27,1425,30707115366,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,131
+779,sbg - construcciones,bffde1a7e373b9620c3caac513b97e49d16bce3f,1428,30707086218,"254,10",2016-01-12,1,débito automatico cbu,servicios,web,129
+780,centro motor,d8819589cb4baf92ac07580d01836da3df581996,2826,20270687068,"302,50",2016-05-31,1,débito automatico cbu,automovil,web,306
+781,ps soluciones,a007e9f040ada85fa371f933c67d5e9d0a3e0abc,1646,20200542402,"302,50",2016-05-18,1,débito automatico cbu,software & tecnología,venta calle,241
+782,seyler gunter enrique,013d15a71b113f5bacfb0ca74d8c16bd467b5ecd,7600,30536393257,"254,10",2015-10-15,1,débito automatico cbu,servicios,captia,154
+783,shine,bd34c2a95972d31507d5e16929480531003d5e6e,4600,20321587934,"229,90",2015-07-30,1,,indumentaria,web,263
+784,benicio,37e4e32438ae6e2e85b23b5af0149b184ff5b7fd,3400,30714636754,"254,10",2015-09-09,1,débito automatico cbu,indumentaria,nea,171
+785,ruedas argentinas sacifia,88e446da9acf26ee56f7b00a7fba869c3f89c9b9,1638,30711876614,"1210,00",2016-05-26,4,débito automatico cbu,,inlat,242
+786,el ombœ,9b6a1cb3b196e93a08fbf93a6ddeaefeefc20838,6700,30711195382,"302,50",2016-04-19,1,debíto automatico tarjeta de crédito,servicios,web,308
+787,habitos,6f5e9e6108c0c8fd341fdecae8e1ffdb7a98cb9e,5000,33714827699,"254,10",2016-02-04,1,débito automatico cbu,servicios,web,199
+788,la mona jacinta,a80b4930541da0a48319ad54529113b03f0e2718,2000,27260739870,"350,90",2016-05-19,1,transferencia,indumentaria,web,187
+789,olivetta,6e3a0ef2c6f993141e2592de4e245229de6f2f36,1429,30714788201,"1210,00",2016-04-14,4,débito automatico cbu,indumentaria,referido por empleado,210
+790,perfumeria casa lis,9504054ba72fcd1738b83f44c6bc812c270a6fa5,8303,27162950350,"229,90",2015-09-10,1,débito automatico cbu,perfumeria,captia,309
+791,picadelly,1a1c451cf9bd52465a16c3cb11eb9309d79c9462,1428,30712271503,"907,50",2016-05-31,3,débito automatico cbu,restaurant,web,129
+792,tivoglio,820b8b753247019d6543071c40313c0579e48f12,1872,27223014629,"302,50",2016-03-10,1,débito automatico cbu,indumentaria,web,310
+793,quantico zapatos,0f000fa266bbcb07069dc845d4a2ae2ef6439672,1406,30694084075,"508,20",2015-09-22,2,débito automatico cbu,indumentaria,captia,130
+794,panini the food truck store,cf5bc57771f11530f572b75d30d36e6f5fd58aa8,1024,33714946299,"254,10",2016-01-18,1,débito automatico cbu,restaurant,web,249
+795,le pain,da7876aa9b3bfb64c52943979895eb520f271fb0,1428,30712370978,"3702,60",2015-06-16,18,transferencia,restaurant,los 4,129
+796,llongueras,3558859619113979e87fc6cc0041b309b760711f,1428,30711400113,"1839,20",2015-07-07,8,débito automatico cbu,peluqueria,los 4,129
+797,basilotta,14ad4da5778eedae90e7a0bb69d157a68b17ce66,1428,30711088780,"508,20",2016-01-25,2,débito automatico cbu,indumentaria,web,129
+798,chiqui garcia motos,b8da47d26b1e5d33279280f058af8e212974e650,3400,20200140134,"508,20",2016-03-03,2,débito automatico cbu,,nea,171
+799,transporte automotor,c4b5e0a030b8903d4a10dd7cda50eaab6c248243,5411,30546343673,"4319,70",2016-01-26,21,transferencia,automovil,web,313
+800,prisole,f4d517afdc024c70d2f19da6c12531738cfc3aa1,3400,30714664928,"1512,50",2016-05-26,5,débito automatico cbu,combustible,web,171
+801,atomic devoto,780952a41e80c99f8764af3d80a3a411e9cd3861,1417,30710873670,"302,50",2016-04-12,1,débito automatico cbu,indumentaria,web,192
+802,mascotaman’a,5a5a28e3a06d880d77de36375780c6647317900b,1642,30711223416,"302,50",2016-06-03,1,débito automatico cbu,servicios,venta calle,138
+803,canta el gallo,136f8d8462ed4df70967328ed8cd5a0ecd7f29f6,1670,30711958734,"1512,50",2016-03-23,5,débito automatico cbu,restaurant,web,167
+804,uneg,97353ebc7f1eb080abbe666e9bef478f96173cda,1025,30712218386,"907,50",2016-04-25,3,débito automatico cbu,supermercado,captia,315
+805,zapateria mara,49a078bf09f5fb7c3584f672f789583e75f4e266,3500,30707653740,"508,20",2015-11-06,2,débito automatico cbu,indumentaria,web,195
+806,kewel ramos,a4c4612b15621c8a143282253cb6ba5618aca200,1704,30714360139,"254,10",2015-11-05,1,débito automatico cbu,indumentaria,web,231
+807,las doritas,d6e7a117f88f5a9a1adb531734fc9d9149f554ec,1001,30711486727,"508,20",2016-01-12,2,débito automatico cbu,restaurant,inlat,316
+808,pintureria velazco,3512bb15b45f589642d929be5fc99552bc7475f4,3409,20112498096,"508,20",2016-02-12,2,débito automatico cbu,,nea,182
+809,joyeria vendemmia,c8ee9dde6f056e4522bd5a83ba2683c1fed426c4,5500,33671942219,"302,50",2016-05-30,1,débito automatico cbu,,mendoza,174
+810,kozlo,957165010cbf3cb8432fe74b39e22f133da40169,3315,20229898699,"254,10",2016-01-26,1,débito automatico cbu,indumentaria,web,317
+811,mediterraneo muebles,974ccaad3348cca3061b4aaa587d31490989df59,3400,20296729397,"254,10",2015-11-16,1,débito automatico cbu,,nea,171
+812,viel automotores,320e7590690c8709c99273080cc0b7593898fa83,1638,30540059078,"1016,40",2016-01-12,4,débito automatico cbu,automovil,web,242
+813,carniceria avicola belgrano,f0a0966ea6fdd2ed226bd60409e26ce68527850b,4600,20308545491,"254,10",2016-03-03,1,débito automatico cbu,restaurant,web,263
+814,distribuidora de la fe,fb8d7c2ada5d901e621280288e6f7d5a87718a61,8332,27103816683,"254,10",2015-08-14,1,débito automatico cbu,,web,206
+815,la parolaccia,904ff27a08a6f01db5509c567283e7eb980a5f27,1107,30693518861,"6098,40",2016-04-13,24,débito automatico cbu,,inlat,176
+816,vete al diablo,a25612f429864c3b7ef8dfa4f94a009586d05753,1406,30714197742,"1379,40",2015-06-18,6,débito automatico cbu,indumentaria,los 4,130
+817,vintrack,00f2e286e36187f0f4e7186d0393b920ad9decda,1216,30710330766,"314,60",2015-09-18,1,débito automatico cbu,automovil,web,318
+818,agencia movistar azul,b781f708bad9c24212c734db5f3b7efbf0c217b8,7300,30707365168,"302,50",2016-04-20,1,debíto automatico tarjeta de crédito,software & tecnología,web,238
+819,wang qingyun,71c832a6a896e93dbe6aa2d72f91c287c44f48e1,1406,27940352911,"254,10",2015-08-19,1,débito automatico cbu,supermercado,icbc,130
+820,runan wang,9061702afd14d8a6574c6a6c81071677cb0b8b24,1107,27951266936,"254,10",2015-09-10,1,débito automatico cbu,supermercado,icbc,176
+821,wang ting,6926347e594df93d20d0b0399a5210b70504f55d,1233,20945108879,"254,10",2015-09-10,1,débito automatico cbu,supermercado,icbc,319
+822,arturo unger outdoor,0729140a2aeeb60175fe3a471549218fccfa0790,3400,20054018402,"508,20",2015-09-18,2,débito automatico cbu,deporte,nea,171
+823,westcomm,4a5773400a65174dfd9cadcfaaad39650bfa3cbe,1754,30709368393,"1815,00",2016-04-20,6,débito automatico cbu,,banco comafi,147
+824,pekken recoleta,546bd397a2cabd132860b6c74ab2c56d43e6fe09,1425,20132089672,"302,50",2016-05-23,1,débito automatico cbu,,venta calle,131
+825,lof opticas,9127facd2f72911f2fabdc9bde7b6b217c21761e,1406,30709305294,"1270,50",2016-03-01,5,débito automatico cbu,,inlat,130
+826,llongueras,3558859619113979e87fc6cc0041b309b760711f,1405,30712420002,"1839,20",2015-07-07,8,débito automatico cbu,peluqueria,los 4,320
+827,zaff,080219c620c60a710d2f8802754f5d744a9e3db2,1712,30612474334,"605,00",2016-05-24,2,débito automatico cbu,servicios,web,217
+828,legacy zarate,caec1afd4189f51281fb1f00805ac6ef56f33054,2812,20176060612,"302,50",2016-03-10,1,débito automatico cbu,,jimmy,321
+829,llongueras,3558859619113979e87fc6cc0041b309b760711f,1016,30712250182,"1839,20",2015-07-07,8,débito automatico cbu,peluqueria,los 4,322
+830,power zon,cb04245af64dc77c7ff1a053030940d7c33a9181,1414,20322656212,"254,10",2015-12-17,1,débito automatico cbu,software & tecnología,web,133
+831,maquen,42e57768be00d57119ccaa3faa4934ab0bfa6305,4400,30711963665,"302,50",2016-04-25,1,débito automatico cbu,,mendoza,179

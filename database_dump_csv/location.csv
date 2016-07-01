@@ -1,0 +1,196 @@
+id,zipcode,city,province,country
+128,1104,caba,caba,argentina
+129,1428,caba,caba,argentina
+130,1406,caba,caba,argentina
+131,1425,caba,caba,argentina
+132,1089,caba,caba,argentina
+133,1414,caba,caba,argentina
+134,1708,moron,buenos aires,argentina
+135,1663,san miguel,buenos aires,argentina
+136,2600,venado tuerto,santa fe,argentina
+137,1408,caba,caba,argentina
+138,1642,san isidro,buenos aires,argentina
+139,1050,caba,caba,argentina
+140,1126,caba,buenos aires,argentina
+141,5584,palmira,mendoza,argentina
+142,1046,caba,caba,argentina
+143,1875,wilde,buenos aires,argentina
+144,1084,caba,caba,argentina
+145,8000,bahia blanca,buenos aires,argentina
+146,3003,helvecia,santa fe,argentina
+147,1754,san justo,buenos aires,argentina
+148,7630,necochea,buenos aires,argentina
+149,8300,neuquen,neuquen,argentina
+150,5505,la puntilla,mendoza,argentina
+151,1426,caba,caba,argentina
+152,5009,alto verde,cordoba,argentina
+153,1054,caba,caba,argentina
+154,7600,mar del plata,buenos aires,argentina
+155,8109,punta alta,buenos aires,argentina
+156,5927,ticino,cordoba,argentina
+157,1686,hurlingam,buenos aires,argentina
+158,1832,lomas de zamora,buenos aires,argentina
+159,1896,city bell,buenos aires,argentina
+160,1644,victoria,buenos aires,argentina
+161,1897,la plata,buenos aires,argentina
+162,1900,la plata,buenos aires,argentina
+163,1629,pilar,buenos aires,argentina
+164,1092,caba,caba,argentina
+165,8324,cipolletti,rio negro,argentina
+166,2760,san a. de areco,buenos aires,argentina
+167,1670,trigre,buenos aires,argentina
+168,4200,santiago del estero,santiago del estero,argentina
+169,5570,san martin,mendoza,argentina
+170,5519,san jose,mendoza,argentina
+171,3400,corrientes,corrientes,argentina
+172,3127,villa hernandarias,entre rios,argentina
+173,1116,caba,caba,argentina
+174,5500,mendoza,mendoza,argentina
+175,3630,las lomitas,formosa,argentina
+176,1107,caba,caba,argentina
+177,9121,puerto piramide,chubut,argentina
+178,1640,acasuso,buenos aires,argentina
+179,4400,salta,salta,argentina
+180,1661,bella vista,buenos aires,argentina
+181,3260,concepcion del uruguay,entre rios,argentina
+182,3409,paso de la patria,corrientes,argentina
+183,1424,caba,caba,argentina
+184,1005,caba,caba,argentina
+185,3000,santa fe,santa fe,argentina
+186,1888,florencio varela,buenos aires,argentina
+187,2000,rosario,santa fe,argentina
+188,8500,viedma,rio negro,argentina
+189,5400,san juan,san juan,argentina
+190,1430,caba,caba,argentina
+191,3300,posadas,misiones,argentina
+192,1417,caba,caba,argentina
+193,1439,caba,caba,argentina
+194,7150,ayacucho,buenos aires,argentina
+195,3500,resistencia,chaco,argentina
+196,6400,trenque lauquen,buenos aires,argentina
+197,3600,formosa,formosa,argentina
+198,8400,san carlos de bariloche,rio negro,argentina
+199,5000,cordoba,cordoba,argentina
+200,1014,caba,caba,argentina
+201,1822,valentina alsina,buenos aires,argentina
+202,1286,caba,caba,argentina
+203,1073,caba,caba,argentina
+204,8370,san martin de los andes,neuquen,argentina
+205,1431,caba,caba,argentina
+206,8332,general roca,rio negro,argentina
+207,1123,caba,caba,argentina
+208,1267,caba,caba,argentina
+209,2134,roldan,santa fe,argentina
+210,1429,caba,caba,argentina
+211,7167,la plata,buenos aires,argentina
+212,8345,alumine,neuquen,""
+213,1258,caba,caba,argentina
+214,1624,rincon de milberg,buenos aires,argentina
+215,4000,san miguel de tucuman,tucuman,argentina
+216,1111,caba,caba,argentina
+217,1712,castelar,buenos aires,argentina
+218,8407,puerto manzano,neuquen,argentina
+219,1120,caba,caba,""
+220,3530,quitilipi,chaco,argentina
+221,1648,san isidro,buenos aires,argentina
+222,2152,santa fe,santa fe,argentina
+223,1416,caba,caba,argentina
+224,1060,caba,caba,argentina
+225,1427,caba,caba,argentina
+226,1714,ituzaingo,buenos aires,argentina
+227,1235,caba,caba,argentina
+228,1052,caba,caba,argentina
+229,9000,comodoro rivadavia,chubut,argentina
+230,1419,caba,caba,argentina
+231,1704,ramos mejia,buenos aires,argentina
+232,1636,olivos,buenos aires,argentina
+233,1017,caba,caba,argentina
+234,8316,plottier,neuquen,argentina
+235,1605,munro,buenos aires,argentina
+236,1609,caba,buenos aires,argentina
+237,1643,beccar,buenos aires,argentina
+238,7300,azul,buenos aires,argentina
+239,1846,adrogue,buenos aires,argentina
+240,1003,caba,caba,argentina
+241,1646,san fernando,buenos aires,argentina
+242,1638,caba,caba,argentina
+243,"",ezpeleta,buenos aires,argentina
+244,1757,laferrere,buenos aires,argentina
+245,1665,jose c. paz,buenos aires,argentina
+246,1614,villa de mayo,buenos aires,argentina
+247,7080,tigre,buenos aires,argentina
+248,1440,caba,caba,argentina
+249,1024,caba,caba,argentina
+250,5525,rodeo de la cruz ,mendoza,argentina
+251,1602,florida,buenos aires,argentina
+252,1187,caba,caba,argentina
+253,1611,don torcuarto,buenos aires,argentina
+254,8504,carmen de patagones,buenos aires,argentina
+255,1827,banfiel,buenos aires,argentina
+256,1057,caba ,buenos aires,argentina
+257,1607,villa adelina,buenos aires,argentina
+258,1722,merlo,buenos aires,argentina
+259,1004,caba,caba,argentina
+260,1407,caba,caba,argentina
+261,3700,resistencia,chaco,argentina
+262,3342,gobernador viraso,corrientes,argentina
+263,4600,san salvador de jujuy,jujuy,argentina
+264,1012,caba,caba,argentina
+265,2930,san pedro,buenos aires,argentina
+266,5172,la falda,cordoba,argentina
+267,5280,cruz del eje,cordoba,argentina
+268,1667,tortugitas,buenos aires,argentina
+269,1603,villa martelli,buenos aires,argentina
+270,1019,caba,caba,argentina
+271,6600,mercedes,buenos aires,argentina
+272,1688,villa tesei,buenos aires,argentina
+273,6000,junin,buenos aires,argentina
+274,1746,francisco alvarez,buenos aires,argentina
+275,9103,trelew,chubut,argentina
+276,1058,caba,caba,argentina
+277,1093,caba,caba,argentina
+278,1878,quilmes,buenos aires,argentina
+279,7500,tres arroyos,buenos aires,argentina
+280,5507,lujan de cuyo,mendoza,argentina
+281,5194,los reartes,cordoba,argentina
+282,1645,san fernando,buenos aires,argentina
+283,1128,caba,caba,argentina
+284,5300,la rioja,la rioja,argentina
+285,1015,capitla federal,caba,argentina
+286,1718,san antonio de padua,buenos aires,argentina
+287,1032,caba,caba,argentina
+288,1035,caba,caba,argentina
+289,1181,caba,caba,argentina
+290,9310,puerto san julian,santa cruz,argentina
+291,6300,santa rosa,la pampa,argentina
+292,9410,ushuaia,tierra del fuego,argentina
+293,1650,san martin,buenos aires,argentina
+294,1804,ezeiza,buenos aires,argentina
+295,1002,caba,buenos aires,argentina
+296,1066,caba,caba,argentina
+297,4402,salta,salta,argentina
+298,1048,caba,caba,argentina
+299,1112,caba,caba,argentina
+300,6319,victorica,la pampa,argentina
+301,7400,olavarria,buenos aires,argentina
+302,1752,lomas del mirador,buenos aires,argentina
+303,1464,caba,caba,argentina
+304,4700,san fernando del valle de catamarca,catamarca,argentina
+305,5501,mendoza,mendoza,argentina
+306,2826,urdinarrain,entre rios,argentina
+307,9120,puerto madryn,chubut,argentina
+308,6700,luj‡n,buenos aires,""
+309,8303,cinco saltos,rio negro,argentina
+310,1872,sarandi,buenos aires,argentina
+311,1127,caba,caba,argentina
+312,1744,moreno,buenos aires,argentina
+313,5411,san juan,san juan,argentina
+314,1287,caba,caba,argentina
+315,1025,caba,buenos aires,argentina
+316,1001,capital federak,caba,argentina
+317,3315,leandro n. alen,misiones,argentina
+318,1216,caba,caba,argentina
+319,1233,caba,caba,argentina
+320,1405,caba,caba,argentina
+322,1016,caba,caba,argentina
+321,2812,capilla del señor,buenos aires,argentina
